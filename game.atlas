@@ -1,0 +1,104 @@
+
+game.png
+size: 1024, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Krusty Krabs
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Swamp House
+  rotate: false
+  xy: 828, 254
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/The Core
+  rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Asgore Dreammur
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Neptune
+  rotate: false
+  xy: 4, 112
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+LeaderIcons/Shrek
+  rotate: false
+  xy: 362, 112
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+NationIcons/Monsterkind
+  rotate: false
+  xy: 720, 254
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Shrek Swamp
+  rotate: false
+  xy: 720, 146
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Undersea
+  rotate: false
+  xy: 828, 146
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cook
+  rotate: false
+  xy: 436, 8
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Royal Guard
+  rotate: false
+  xy: 936, 394
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+UnitIcons/Cook
+  rotate: false
+  xy: 720, 362
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ogre
+  rotate: false
+  xy: 828, 362
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Royal Guard
+  rotate: false
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

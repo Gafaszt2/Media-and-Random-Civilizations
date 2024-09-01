@@ -1,0 +1,43 @@
+[
+{
+		"name": "Royal Guard",
+                "replaces": "Longswordsman",
+                "uniqueTo": "Monsterkind",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 23,
+		"cost": 130,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+                "uniques": ["Can build [Fort] improvements on tiles", "[+15]% Strength <vs [Sword] units>","Automation is a primary action"],
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
+{
+		"name": "Ogre",
+                "replaces": "Swordsman",
+                "uniqueTo": "Shrek Swamp",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron", 
+                "uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+{
+		"name": "Cook",
+                "replaces": "Worker",
+                "strength": 5,
+		"uniqueTo": "Undersea",
+		"unitType": "Sword",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 70
+	},
+]

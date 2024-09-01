@@ -1,0 +1,38 @@
+[
+{
+		"name": "The Core",
+                "uniqueTo": "Monsterkind",
+		"replaces": "Forge",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Iron"],
+		"requiredTech": "Metal Casting",
+		"uniques": ["[+1 Science, +2 Production] [in this city]","[+15]% Production when constructing [Spaceship part] units [in this city]",
+			"[+15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Iron] tiles [in this city]"]
+	},
+{
+		"name": "Swamp House",
+                "uniqueTo": "Shrek Swamp",
+		"replaces": "Granary",
+		"food": 2,
+                "culture": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+{
+		"name": "Krusty Krabs",
+                "uniqueTo": "Undersea",
+		"replaces": "Heroic Epic",
+		"cost": 125,
+		"culture": 1,
+                "food": 5,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
+			"Cost increases by [30] per owned city"],
+		"requiredTech": "Iron Working"
+	},
+]

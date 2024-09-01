@@ -1,0 +1,83 @@
+[
+{
+		"name": "Monsterkind",
+		"leaderName": "Asgore Dreammur",
+		"adjective": ["Monsterkind"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am Neptune, god of all seas!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [100, 70, 166],
+		"innerColor": [240, 235, 252],
+		"uniqueName": "Determination Lack",
+		"uniques": ["[+15]% Strength <for [All] units>","[-15]% Strength <for [Wounded] units>"],
+		"cities": ["New Home", "Home", "Snowdin", "Waterfalls Town", "Honeydew Village", "Core City", "Temmie Village", "Dune Oasis", "Dune Town", "Ruins", "Waterburg", "Spiderville", "Snowy Forest Village", "Cutieborg", "Underground City", "Unknown Doorville"],
+        "spyNames": ["Sans"]
+    },
+{
+		"name": "Shrek Swamp",
+		"leaderName": "Shrek",
+		"adjective": ["Shrek"],
+		"startBias": ["Marsh"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am Neptune, god of all seas!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [79, 87, 72],
+		"innerColor": [189, 247, 139],
+		"uniqueName": "Ogres are Like Onions",
+		"uniques": ["[+1 Culture] from every [Marsh]","[+1 Culture] from every [Jungle]","[+1 Culture] from every [Walls]"],
+		"cities": ["Shrek's Swamp", "Nice Boulder", "Fiona's Tower", "Dragon's Keep", "Shrek's Wall", "Worcestershire Academy", "Poison Apple", "Potion Factory", "Friar's Fat Boy", "Dead End Graveyard", "Merlin's House", "Sherwood Forest", "San Ricardo"],
+        "spyNames": ["Donkey", "Puss in Boots", "Gingerbread Man", "Fiona", "Pinocchio", "Big Bad Wolf", "Three Blind Mice", "Three Little Pigs", "Three Good Fairies"]
+    },
+{
+		"name": "Undersea",
+		"leaderName": "Neptune",
+		"adjective": ["Undersea"],
+		"startBias": ["Coast"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am Neptune, god of all seas!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [35, 61, 52],
+		"innerColor": [3, 252, 165],
+		"uniqueName": "Neptune Preserve Her!",
+		"uniques": ["[+3 Culture] from every [Colloseum]","Starts with [Sailing]"],
+		"cities": ["Bikini Bottom", "Rock Bottom", "Bottom's Up", "New Kelp City", "Bass Vegas", "Dullsville", "Far-Out-Ville", "Atlantis", "Bubbletown", "Ukulele Bottom", "Palm Bay", "Barnacle Bay", "Bikinos Bottos", "El Tuna", "Base Eight", "Stupidtown", "Quittersville", "Failuretown", "Loserburg", "Farawayville", "We Love Musictown", "Crush County"],
+        "spyNames": ["SpongeBob", "Patrick", "Squidward", "Krabs", "Sandy", "Pearl", "Puff", "Plankton", "Karen", "Larry"]
+    },
+]
