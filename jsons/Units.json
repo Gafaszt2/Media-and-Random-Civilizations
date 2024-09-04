@@ -1,5 +1,19 @@
 [
 {
+		"name": "Toad Guard",
+                "replaces": "Spearman",
+                "uniqueTo": "Mushroom Kingdom",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 11,
+		"cost": 30,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+{
 		"name": "Royal Guard",
                 "replaces": "Longswordsman",
                 "uniqueTo": "Monsterkind",

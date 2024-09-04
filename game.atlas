@@ -1,6 +1,6 @@
 
 game.png
-size: 1024, 512
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -13,7 +13,7 @@ BuildingIcons/Krusty Krabs
   index: -1
 BuildingIcons/Swamp House
   rotate: false
-  xy: 828, 254
+  xy: 1294, 362
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -21,6 +21,13 @@ BuildingIcons/Swamp House
 BuildingIcons/The Core
   rotate: false
   xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Warp Pipes
+  rotate: false
+  xy: 1402, 362
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -39,30 +46,44 @@ LeaderIcons/Neptune
   orig: 350, 350
   offset: 0, 0
   index: -1
-LeaderIcons/Shrek
+LeaderIcons/Peach
   rotate: false
   xy: 362, 112
   size: 350, 350
   orig: 350, 350
   offset: 0, 0
   index: -1
+LeaderIcons/Shrek
+  rotate: false
+  xy: 720, 112
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
 NationIcons/Monsterkind
   rotate: false
-  xy: 720, 254
+  xy: 1078, 254
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Mushroom Kingdom
+  rotate: false
+  xy: 1186, 362
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Shrek Swamp
   rotate: false
-  xy: 720, 146
+  xy: 1186, 254
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Undersea
   rotate: false
-  xy: 828, 146
+  xy: 1294, 254
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -76,28 +97,56 @@ TileSets/AbsoluteUnits/Units/Cook
   index: -1
 TileSets/AbsoluteUnits/Units/Royal Guard
   rotate: false
-  xy: 936, 394
+  xy: 1294, 178
   size: 68, 68
   orig: 68, 68
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/City center-Ancient era-Undersea
+  rotate: false
+  xy: 1402, 298
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/City center-Undersea
+  rotate: false
+  xy: 1510, 406
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Farm-Undersea
+  rotate: false
+  xy: 540, 48
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 UnitIcons/Cook
   rotate: false
-  xy: 720, 362
+  xy: 1078, 362
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ogre
   rotate: false
-  xy: 828, 362
+  xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Royal Guard
   rotate: false
-  xy: 220, 4
+  xy: 1078, 146
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Toad Guard
+  rotate: false
+  xy: 1186, 146
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

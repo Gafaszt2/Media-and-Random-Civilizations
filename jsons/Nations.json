@@ -1,5 +1,32 @@
 [
 {
+		"name": "Mushroom Kingdom",
+		"leaderName": "Peach",
+		"adjective": ["Mushroom Kingdom"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am Neptune, god of all seas!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [235, 64, 52],
+		"innerColor": [197, 219, 250],
+		"uniqueName": "The Most Famous of All Kingdoms",
+		"uniques": ["[+30]% Production when constructing [Happiness] buildings [in all cities]","[+1 Happiness] from all [Food] buildings"],
+		"cities": ["Toad Town", "Goomba Village", "Koopa Village", "Dry Dry Outpost", "Gusty Gulch", "Shiver City", "Decalburg", "Hollijolli Village"],
+        "spyNames": ["Mario", "Luigi", "Toad", "Toadsworth", "Toadette", "Yoshi", "Birdo", "Spike", "Geno", "Goombario"]
+    },
+{
 		"name": "Monsterkind",
 		"leaderName": "Asgore Dreammur",
 		"adjective": ["Monsterkind"],
