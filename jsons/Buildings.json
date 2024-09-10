@@ -1,5 +1,14 @@
 [
 {
+		"name": "Village",
+                "uniqueTo": "The Village",
+		"replaces": "Water Mill",
+		"food": 3,
+		"production": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "The Wheel"
+	},
+{
 		"name": "Warp Pipes",
                 "uniqueTo": "Mushroom Kingdom",
 		"replaces": "Windmill",

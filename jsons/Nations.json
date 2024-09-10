@@ -1,5 +1,98 @@
 [
 {
+		"name": "The Village",
+		"leaderName": "Steve",
+		"adjective": ["Steve"],
+		"startBias": ["Plains"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am Neptune, god of all seas!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [194, 139, 83],
+		"innerColor": [66, 48, 29],
+		"uniqueName": "Agriculture",
+		"uniques": ["[+2 Food, +1 Production] from every specialist [in all cities] <during a Golden Age>"],
+		"cities": ["Stonewind",
+"Mountainsedge",
+"Oakdale",
+"Noorland",
+"Windmere",
+"Ironforge",
+"Lairstone",
+"Silverport",
+"Newland",
+"Riverhill",
+"Westerbridge",
+"Southport",
+"Frostport",
+"Ironwood",
+"Timberford",
+"Shadeport",
+"Deepstone",
+"Hightone",
+"Goldport",
+"Ravensberg"],
+        "spyNames": ["Chandra","Faruok","Liam","Nanuq","Salah","Wendy","Xu","Yumi","Zuri"]
+    },
+{
+		"name": "Pillager Society",
+		"leaderName": "Arch Evoker",
+		"adjective": ["Pillager"],
+		"startBias": ["Forest"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am Neptune, god of all seas!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [64, 28, 37],
+		"innerColor": [156, 156, 156],
+		"uniqueName": "Raider´s Culture",
+		"uniques": ["No damage penalty for wounded units","No movement cost to pillage","[+5]% Production when constructing [Production] buildings [in all cities]"],
+		"cities": ["Obsidian Pinnacle"
+"Desert Pyramid City"
+"Woodland Mansion"
+"Desert Well City"
+"Outcast City"
+"Abandoned City"
+"Jungle Temple City"
+"Jungle Ruin City"
+"Bastion City"
+"Ruined Portal City"
+"Underwater Ruin City"
+"Pillager Tower City"
+"Pillager Outpost City"
+"Village City"
+"Desert City"
+"Ravager Capital"
+"Mountain City"
+"Pillager Castle"
+"Iceberg City"
+"Ravensberg"],
+        "spyNames": ["Walda","Thors"]
+    },
+
+{
 		"name": "Mushroom Kingdom",
 		"leaderName": "Peach",
 		"adjective": ["Mushroom Kingdom"],
@@ -76,7 +169,7 @@
 		"outerColor": [79, 87, 72],
 		"innerColor": [189, 247, 139],
 		"uniqueName": "Ogres are Like Onions",
-		"uniques": ["[+1 Culture] from every [Marsh]","[+1 Culture] from every [Jungle]","[+1 Culture] from every [Walls]"],
+		"uniques": ["[+3 Culture] from every [Marsh]","[+1 Culture] from every [Jungle]","[+2 Culture] from every [Walls]"],
 		"cities": ["Shrek's Swamp", "Nice Boulder", "Fiona's Tower", "Dragon's Keep", "Shrek's Wall", "Worcestershire Academy", "Poison Apple", "Potion Factory", "Friar's Fat Boy", "Dead End Graveyard", "Merlin's House", "Sherwood Forest", "San Ricardo"],
         "spyNames": ["Donkey", "Puss in Boots", "Gingerbread Man", "Fiona", "Pinocchio", "Big Bad Wolf", "Three Blind Mice", "Three Little Pigs", "Three Good Fairies"]
     },
