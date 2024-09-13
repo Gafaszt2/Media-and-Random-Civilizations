@@ -1,5 +1,24 @@
 [
 {
+		"name": "Gym",
+                "uniqueTo": "Based Empire",
+		"replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"uniques": ["New [Military] units start with [20] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+{
+		"name": "Wallnut Walls",
+		"replaces": "Walls",
+		"cost": 80,
+		"uniqueTo": "Garden House",
+		"cityStrength": 7,
+		"cityHealth": 110,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+{
 		"name": "Village",
                 "uniqueTo": "The Village",
 		"replaces": "Water Mill",

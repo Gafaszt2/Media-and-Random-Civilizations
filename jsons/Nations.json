@@ -1,5 +1,87 @@
 [
 {
+		"name": "Based Empire",
+		"leaderName": "Gigachad",
+		"adjective": ["gigachad"],
+		"startBias": ["Plains"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am Gigachad!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [43, 18, 18],
+		"innerColor": [255, 82, 82],
+		"uniqueName": "Gotta Grind",
+		"uniques": ["[+33]% to Flank Attack bonuses","[+2 Gold] per [4] population [in all cities]","[+2 Faith] per [4] population [in all cities]","[+2 Culture] per [4] population [in all cities]","[+2 Production] per [5] population [in all cities]"],
+		"cities": ["Ferrairi","Muscle land","Weight Lift","Lifting","Calistheny"],
+        "spyNames": ["Smart Fella"]
+    },
+{
+		"name": "Zombies",
+		"leaderName": "Dr Zomboss",
+		"adjective": ["Zombie"],
+		"startBias": ["Ruins"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am Dr Zomboss!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [52, 52, 56],
+		"innerColor": [143, 117, 255],
+		"uniqueName": "Hunger for Brains",
+		"uniques": ["No damage penalty for wounded units","Heals [15] damage if it kills a unit","[-5]% Strength"],
+		"cities": ["Zombietopia","Brainsland","Tyrania","Zombie Garden","Grasswalk"],
+        "spyNames": ["Smart Zomba"]
+    },
+{
+		"name": "Garden House",
+		"leaderName": "Crazy Dave",
+		"adjective": ["Crazy"],
+		"startBias": ["Marsh"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am Crazy Dave!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [250, 236, 215],
+		"innerColor": [72, 133, 29],
+		"uniqueName": "Grown in the Garden",
+		"uniques": ["[+2 Culture] from every [Plantation]","[+1 Culture] from every [Luxury resource] <during a Golden Age>"],
+		"cities": ["Dave´s Backyard","Basil´s Backyard","Gafas´s Backyard","Arepa´s Backyard"],
+        "spyNames": ["Peashuta"]
+    },
+
+{
 		"name": "The Village",
 		"leaderName": "Steve",
 		"adjective": ["Steve"],
@@ -12,7 +94,7 @@
 		"declaringWar": "You are in my way, you must be destroyed.",
 		"attacked": "As a matter of fact I too grow weary of peace.",
 		"defeated": "You have somehow become my undoing! What kind of beast are you?",
-		"introduction": "Hello stranger! I am Neptune, god of all seas!",
+		"introduction": "Hello stranger! I am Steve!",
 
 		"neutralHello": "Greetings!",
 		"hateHello": "What?",
@@ -58,7 +140,7 @@
 		"declaringWar": "You are in my way, you must be destroyed.",
 		"attacked": "As a matter of fact I too grow weary of peace.",
 		"defeated": "You have somehow become my undoing! What kind of beast are you?",
-		"introduction": "Hello stranger! I am Neptune, god of all seas!",
+		"introduction": "Hello stranger! I am Arch Evoker!",
 
 		"neutralHello": "Greetings!",
 		"hateHello": "What?",
@@ -105,7 +187,7 @@
 		"declaringWar": "You are in my way, you must be destroyed.",
 		"attacked": "As a matter of fact I too grow weary of peace.",
 		"defeated": "You have somehow become my undoing! What kind of beast are you?",
-		"introduction": "Hello stranger! I am Neptune, god of all seas!",
+		"introduction": "Hello stranger! I am Peach!",
 
 		"neutralHello": "Greetings!",
 		"hateHello": "What?",
@@ -132,7 +214,7 @@
 		"declaringWar": "You are in my way, you must be destroyed.",
 		"attacked": "As a matter of fact I too grow weary of peace.",
 		"defeated": "You have somehow become my undoing! What kind of beast are you?",
-		"introduction": "Hello stranger! I am Neptune, god of all seas!",
+		"introduction": "Hello stranger! I am Asgore!",
 
 		"neutralHello": "Greetings!",
 		"hateHello": "What?",
@@ -159,7 +241,7 @@
 		"declaringWar": "You are in my way, you must be destroyed.",
 		"attacked": "As a matter of fact I too grow weary of peace.",
 		"defeated": "You have somehow become my undoing! What kind of beast are you?",
-		"introduction": "Hello stranger! I am Neptune, god of all seas!",
+		"introduction": "Hello stranger! I am Shrek!",
 
 		"neutralHello": "Greetings!",
 		"hateHello": "What?",
