@@ -1,5 +1,17 @@
 [
 {
+		"name": "Reactor",
+                "uniqueTo": "Skibidi Toilets",
+		"replaces": "Military Base",
+                "maintenance": 1,
+		"cityStrength": 12,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Arsenal",
+		"requiredTech": "Replaceable Parts",
+		"uniques": ["New [Military] units start with [10] Experience [in this city]","[+10]% Production when constructing [All] buildings [in this city]","Destroyed when the city is captured"]
+	},
+{
 		"name": "Gym",
                 "uniqueTo": "Based Empire",
 		"replaces": "Barracks",

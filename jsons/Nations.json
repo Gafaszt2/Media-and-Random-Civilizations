@@ -1,5 +1,59 @@
 [
 {
+		"name": "Skibidi Toilets",
+		"leaderName": "G Man",
+		"adjective": ["Skibidi"],
+		"startBias": ["Coast"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! We are the TV Men!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [166, 182, 255],
+		"innerColor": [33, 37, 56],
+		"uniqueName": "Earth´s Fallout",
+		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities","[+33]% XP gained from combat","Population loss from nuclear attacks [-50]% [in all cities]"],
+		"cities": ["Skibidi","Ruins of Calamidae","Scientist´s Place","G Man Temple","New Order of the Toilet"],
+        "spyNames": ["Corrupted Cameraman"]
+    },
+{
+		"name": "Future Earth Alliance",
+		"leaderName": "Titan TV Men",
+		"adjective": ["Future"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! We are the TV Men!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [100, 110, 106],
+		"innerColor": [179, 255, 224],
+		"uniqueName": "War Against The Toilets",
+		"uniques": ["Reveals the entire map","[-50]% Gold cost of acquiring tiles [in all cities]"],
+		"cities": ["The Whole","Abandoned City","York Ruins","Ancient Eye","Electronics"],
+        "spyNames": ["Smart Cameraman"]
+    },
+{
 		"name": "Based Empire",
 		"leaderName": "Gigachad",
 		"adjective": ["gigachad"],

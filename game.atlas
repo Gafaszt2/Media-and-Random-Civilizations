@@ -6,49 +6,56 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Gym
   rotate: false
-  xy: 1078, 796
+  xy: 220, 188
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Krusty Krabs
   rotate: false
-  xy: 112, 80
+  xy: 828, 438
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Swamp House
-  rotate: false
-  xy: 828, 330
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/The Core
+BuildingIcons/Reactor
   rotate: false
   xy: 936, 438
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Village
-  rotate: false
-  xy: 328, 80
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Wallnut Walls
+BuildingIcons/Swamp House
   rotate: false
   xy: 436, 188
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Warp Pipes
+BuildingIcons/The Core
   rotate: false
   xy: 936, 330
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Village
+  rotate: false
+  xy: 1402, 688
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Wallnut Walls
+  rotate: false
+  xy: 1510, 796
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Warp Pipes
+  rotate: false
+  xy: 1618, 904
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -74,9 +81,16 @@ LeaderIcons/Dr Zomboss
   orig: 350, 350
   offset: 0, 0
   index: -1
+LeaderIcons/G Man
+  rotate: false
+  xy: 720, 438
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 LeaderIcons/Gigachad
   rotate: false
-  xy: 828, 546
+  xy: 112, 80
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -102,6 +116,13 @@ LeaderIcons/Shrek
   orig: 350, 350
   offset: 0, 0
   index: -1
+LeaderIcons/Titan TV Men
+  rotate: false
+  xy: 1402, 796
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Based Empire
   rotate: false
   xy: 720, 546
@@ -109,93 +130,107 @@ NationIcons/Based Empire
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Garden House
+NationIcons/Future Earth Alliance
   rotate: false
   xy: 112, 188
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Garden House
+  rotate: false
+  xy: 828, 546
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Monsterkind
   rotate: false
-  xy: 220, 188
+  xy: 936, 546
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Mushroom Kingdom
   rotate: false
-  xy: 720, 330
+  xy: 1078, 688
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Pillager Society
   rotate: false
-  xy: 1186, 796
+  xy: 328, 188
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Shrek Swamp
   rotate: false
-  xy: 328, 188
+  xy: 1294, 796
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/The Village
-  rotate: false
-  xy: 1186, 688
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Undersea
+NationIcons/Skibidi Toilets
   rotate: false
   xy: 1402, 904
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/The Village
+  rotate: false
+  xy: 1294, 688
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Undersea
+  rotate: false
+  xy: 544, 188
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Zombies
   rotate: false
-  xy: 1402, 796
+  xy: 1510, 688
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Cook
   rotate: false
-  xy: 1510, 908
+  xy: 1618, 800
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Golem
   rotate: false
-  xy: 436, 84
+  xy: 1726, 908
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ogre
   rotate: false
-  xy: 544, 192
+  xy: 1618, 696
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Pillager
   rotate: false
-  xy: 1402, 692
+  xy: 1830, 908
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ravager
   rotate: false
-  xy: 1510, 804
+  xy: 1934, 908
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
@@ -209,28 +244,28 @@ TileSets/AbsoluteUnits/Units/Royal Guard
   index: -1
 TileSets/AbsoluteUnits/Units/Toad Guard
   rotate: false
-  xy: 1614, 908
+  xy: 652, 192
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Ancient era-Undersea
   rotate: false
-  xy: 648, 232
+  xy: 652, 128
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Undersea
   rotate: false
-  xy: 720, 266
+  xy: 80, 16
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Farm-Undersea
   rotate: false
-  xy: 1614, 844
+  xy: 152, 16
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -251,63 +286,84 @@ UnitIcons/Cook
   index: -1
 UnitIcons/Gargantuar Zombie
   rotate: false
-  xy: 720, 438
+  xy: 1078, 796
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Iron Golem
+UnitIcons/Giant TV Titan
   rotate: false
   xy: 1186, 904
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Iron Golem
+  rotate: false
+  xy: 720, 330
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Ogre
   rotate: false
-  xy: 828, 438
+  xy: 1186, 796
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Pea Shooter
   rotate: false
-  xy: 936, 546
+  xy: 1294, 904
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Pillager
   rotate: false
-  xy: 1078, 688
+  xy: 220, 80
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ravager
   rotate: false
-  xy: 1294, 904
+  xy: 828, 330
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Royal Guard
   rotate: false
-  xy: 220, 80
+  xy: 1186, 688
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Speakerman
+  rotate: false
+  xy: 328, 80
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Toad Guard
   rotate: false
-  xy: 1294, 796
+  xy: 1510, 904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Toilet
+  rotate: false
+  xy: 436, 80
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Zombie with Bucket
   rotate: false
-  xy: 1294, 688
+  xy: 544, 80
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

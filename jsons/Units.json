@@ -1,5 +1,44 @@
 [
 {
+		"name": "Toilet",
+                "replaces": "Infantry",
+                "uniqueTo": "Skibidi Toilets",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 70,
+		"cost": 320,
+		"requiredTech": "Plastics",
+                "uniques": ["Heals [20] damage if it kills a unit"],
+		"attackSound": "nonmetalhit"
+	},
+{
+		"name": "Speakerman",
+                "replaces": "Infantry",
+                "uniqueTo": "Future Earth Alliance",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 70,
+		"cost": 375,
+                "uniques": ["[+50]% Strength <vs [Toilet] units>"],
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "metalhit"
+	},
+{
+		"name": "Giant TV Titan",
+                "replaces": "Giant Death Robot",
+                "uniqueTo": "Future Earth Alliance",
+		"unitType": "Armored",
+		"movement": 4,
+		"strength": 200,
+		"cost": 400,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Uranium",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "gdrAttack"
+	},
+{
 		"name": "Chad",
                 "replaces": "Warrior",
                 "uniqueTo": "Based Empire",
