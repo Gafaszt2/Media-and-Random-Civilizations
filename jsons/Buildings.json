@@ -1,5 +1,17 @@
 [
 {
+		"name": "Kazakh Granary",
+                "uniqueTo": "Kazakhstan",
+		"replaces": "Granary",
+		"science": 1,
+		"culture": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+{
 		"name": "Reactor",
                 "uniqueTo": "Skibidi Toilets",
 		"replaces": "Military Base",

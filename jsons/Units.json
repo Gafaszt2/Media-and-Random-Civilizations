@@ -1,5 +1,46 @@
 [
 {
+		"name": "Car Pulled By Horses",
+                "replaces": "Mechanized Infantry",
+                "uniqueTo": "Kazakhstan",
+		"unitType": "Gunpowder",
+		"movement": 6,
+		"strength": 90,
+		"cost": 395,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+{
+		"name": "Jack",
+                "replaces": "Spearman",
+                "uniqueTo": "Bridon Production",
+		"unitType": "Sword",
+		"movement": 4,
+		"strength": 20,
+		"cost": 70,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+10]% Strength <vs [Sword] units>","Heals [5] damage if it kills a unit"],
+		"attackSound": "metalhit"
+	},
+        {
+		"name": "Rasta Man",
+                "replaces": "Swordsman",
+                "uniqueTo": "Bridon Production",
+		"unitType": "Sword",
+		"movement": 4,
+		"strength": 25,
+		"cost": 80,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+{
 		"name": "Toilet",
                 "replaces": "Infantry",
                 "uniqueTo": "Skibidi Toilets",

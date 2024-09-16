@@ -1,5 +1,83 @@
 [
 {
+		"name": "Bridon Production",
+		"leaderName": "Fat Woman",
+		"adjective": ["African"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am Fat Woman!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [0, 138, 30],
+		"uniqueName": "Seany TV Dance",
+		"uniques": ["[+2 Culture] per [3] population [in all cities]","[+100]% Yield from every [Jungle]"],
+		"cities": ["Africa Lore Center","Chairs full of Tears","Lonely Men Camp","Africa","The Jungle"],
+        "spyNames": ["Corrupted French"]
+    },
+
+{
+		"name": "Kazakhstan",
+		"leaderName": "Borat",
+		"adjective": ["Kazakh"],
+		"startBias": ["Hill"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "Kazakhstan greatest country in the world
+All other countries are run by little girls
+Kazakhstan number one exporter of potassium
+Other countries have inferior potassium
+
+Kazakhstan home of Tinshein swimming pool
+It's length thirty meter and width six meter
+Filtration system a marvel to behold
+It remove 80 percent of human solid waste
+
+Kazakhstan, Kazakhstan you very nice place
+From Plains of Tarashek to Norther fence of Jewtown
+Kazakhstan friend of all except Uzbekistan
+They very nosey people with bone in their brain
+
+Kazakhstan industry best in the world
+We invented toffee and trouser belt
+Kazakhstan's prostitutes cleanest in the region
+Except of course Turkmenistan's
+
+Kazakhstan, Kazakhstan you very nice place
+From Plains of Tarashek to Norther fence of Jewtown
+Come grasp the might phenis of our leader
+From junction with the testes to tip of it's face",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am G Man!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [8, 35, 56],
+		"innerColor": [225, 240, 252],
+		"uniqueName": "Kazakhstan number one exporter of potassium!",
+		"uniques": ["[+2 Gold, +2 Production] from [Banana] tiles [in all cities]","[+1 Culture] from all [Faith] buildings"],
+		"cities": ["Tarashek","Mighty Pnis of our Leader","Tip of his face","Nice Place","Jewtown"],
+        "spyNames": ["Perverted"]
+    },
+{
 		"name": "Skibidi Toilets",
 		"leaderName": "G Man",
 		"adjective": ["Skibidi"],
