@@ -1,5 +1,35 @@
 [
 {
+"name": "Ink Blot Mouse",
+"uniqueTo": "House of Mouse",
+"replaces": "Great War Infantry",
+"unitType": "Gunpowder",
+"movement": 2,
+"strength": 50,
+"cost": 320,
+"requiredTech": "Replaceable Parts",
+"upgradesTo": "Infantry",
+"obsoleteTech": "Plastics",
+"uniques": [
+"Never appears as a Barbarian unit",
+"[+10]% Strength <when fighting in [Land] tiles>",
+"[-10]% Strength <when fighting in [Water] tiles>"
+],
+"attackSound": "shot"
+},
+{
+		"name": "Great Dictator",
+                "replaces": "Great General",
+                "uniqueTo": "Petoria",
+		"unitType": "Civilian",
+		"uniques": [
+            "[+30]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+{
 		"name": "Car Pulled By Horses",
                 "replaces": "Mechanized Infantry",
                 "uniqueTo": "Kazakhstan",

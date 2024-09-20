@@ -1,5 +1,104 @@
 [
 {
+"name": "House of Mouse",
+"leaderName": "Mickey Mouse",
+"adjective": ["Disney"],
+"startBias": ["Coast"],
+//"personality": "Mick-Mick",
+"preferredVictoryType":"Domination",
+
+"startIntroPart1": "",
+"startIntroPart2": "",
+
+"declaringWar": "You'll see my empire go down in history.",
+"attacked": "Oh boy, you'll regret this.",
+"defeated": "In the end, it was all just a dream. That's all folks.",
+"introduction": "Hiya folks.. Welcome to the happie... eh, you know the thing.",
+
+"neutralHello": "Hiya there.",
+"hateHello": "Go away.",
+
+"tradeRequest": "Use your brain to figure out if you want this.",
+
+"outerColor": [36, 55, 131],
+"innerColor": [63, 123, 201],
+"uniqueName": "Hail the Mouse",
+"uniques": [
+"[+25]% [Gold] [in capital] <upon declaring war with a major Civilization> <for [5] turns>",
+"[+20]% Production when constructing [{Military} {Air}] units [in all cities]"
+],
+"cities": [
+"EPCOT",
+"Treasure Island",
+"Toon Town",
+"Pandora",
+"DinoLand",
+"Planet Watch",
+"Main Street",
+"Adventureland",
+"Frontierland",
+"Tomorrowland",
+"Fantasyland",
+"Liberty Square",
+"New Orleans Square",
+"Critter Country",
+"Buena Vista Square",
+"Cars Land",
+"Pacific Wharf",
+"Grizzly Peak",
+"Paradise Gardens Park",
+"Discoveryland",
+"Adventure Isle",
+"Walt Studios Park",
+"Westernland",
+"Sunset Boulevard",
+"Echo Lake",
+"Animation Courtyard",
+"Mystic Point",
+"Toy Story Playland",
+"Gardens of Imagination"
+],
+"spyNames": [
+"Goofy",
+"Donald",
+"Minnie",
+"Daisy",
+"Pete",
+"Oswald",
+"Clarabelle",
+"Pluto",
+"Mortimer",
+"Ortensia"
+]
+},
+{
+		"name": "Petoria",
+		"leaderName": "Peter",
+		"adjective": ["Petoria"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am Fat Woman!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [227, 246, 255],
+		"innerColor": [46, 134, 176],
+		"uniqueName": "Operation Desert Clam",
+		"uniques": ["[+1 Gold, +2 Production] per [4] social policies adopted","[+1 Science] per [6] social policies adopted","[+1 Culture] per [6] social policies adopted","[+1 Gold, +2 Production] from each Trade Route <during a Golden Age>"],
+		"cities": ["Joehio","Quahog","Italy","Reich","Buenos Aires","Peterland"],
+        "spyNames": ["Quagmire"]
+    },
+{
 		"name": "Bridon Production",
 		"leaderName": "Fat Woman",
 		"adjective": ["African"],
@@ -79,7 +178,7 @@ From junction with the testes to tip of it's face",
     },
 {
 		"name": "Skibidi Toilets",
-		"leaderName": "G Man",
+		"leaderName": "G Toilet",
 		"adjective": ["Skibidi"],
 		"startBias": ["Coast"],
 		"preferredVictoryType":"Diplomatic",

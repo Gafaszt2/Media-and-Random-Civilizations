@@ -1,5 +1,18 @@
 [
 {
+"name": "Animation Studio",
+"uniqueTo": "House of Mouse",
+"replaces": "Opera House",
+"culture": 4,
+"happiness": 2,
+"specialistSlots": {"Artist": 1},
+"hurryCostModifier": 10,
+"requiredBuilding": "Amphitheater",
+"maintenance": 2,
+"requiredTech": "Acoustics",
+"uniques": ["Destroyed when the city is captured"]
+},
+{
 		"name": "Kazakh Granary",
                 "uniqueTo": "Kazakhstan",
 		"replaces": "Granary",
