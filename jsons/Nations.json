@@ -1,5 +1,90 @@
 [
 {
+		"name": "SCP Foundation",
+		"leaderName": "05 Council",
+		"adjective": ["SCP]"],
+		"startBias": ["Coast"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [31, 31, 31],
+		"innerColor": [232, 232, 232],
+		"uniqueName": "Secure, Contain, Protect",
+		"uniques": ["[Gold] cost of purchasing items in cities [-30]%","When conquering an encampment, earn [60] Gold and recruit a Barbarian unit"],
+		"cities": ["Site 1",
+"Site 2",
+"Site 3",
+"Site 4",
+"Site 5",
+"Site 6",
+"Site 7",
+"Site 8",
+"Site 9",
+"Site 10",
+"Site 11",
+"Site 12",
+"Site 13",
+"Site 14",
+"Site 15",
+"Site 16"],
+        "spyNames": ["Mister Afghanistan"]
+    },
+
+{
+		"name": "Mewni Kingdom",
+		"leaderName": "Moon Butterfly",
+		"adjective": ["Menwi"],
+		"startBias": ["Coast"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am Moon Butterfly!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [46, 58, 82],
+		"innerColor": [240, 189, 255],
+		"uniqueName": "Magic Dynasty",
+		"uniques": ["Free [Great Queen] appears <upon entering a new era>"],
+		"cities": ["Mewni City",
+"Cloud City",
+"Spiderbite City",
+"Quest Buy",
+"The Bounce Lounge",
+"Monster Temple",
+"Echo Creek",
+"St. Olgas Reform School for Wayward Princesses",
+"Septarsis",
+"Spider Bite Lake",
+"Ludo's Castle",
+"The Underground Castle",
+"Castle Avarius",
+"St. O's",
+"Magic Sanctuary",
+"Pony Head's Bedroom"],
+        "spyNames": ["Mister India"]
+    },
+{
 "name": "House of Mouse",
 "leaderName": "Mickey Mouse",
 "adjective": ["Disney"],
@@ -84,7 +169,7 @@
 		"declaringWar": "You are in my way, you must be destroyed.",
 		"attacked": "As a matter of fact I too grow weary of peace.",
 		"defeated": "You have somehow become my undoing! What kind of beast are you?",
-		"introduction": "Hello stranger! I am Fat Woman!",
+		"introduction": "Hello stranger! I am Fat Peter!",
 
 		"neutralHello": "Greetings!",
 		"hateHello": "What?",

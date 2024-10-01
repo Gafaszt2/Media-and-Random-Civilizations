@@ -1,5 +1,18 @@
 [
 {
+		"name": "Security Site",
+                "uniqueTo": "SCP Foundation",
+"replaces": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["All newly-trained [non-[Air]] units [in this city] receive the [Anomaly Hunter] promotion","Indicates the capital city"]
+	},
+{
 "name": "Animation Studio",
 "uniqueTo": "House of Mouse",
 "replaces": "Opera House",

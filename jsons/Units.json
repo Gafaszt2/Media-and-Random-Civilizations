@@ -1,5 +1,48 @@
 [
 {
+		"name": "Nine Tailed Fox",
+                "replaces": "Infantry",
+                "uniqueTo": "SCP Foundation",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 75,
+		"cost": 400,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
+{
+		"name": "Solarian Warrior",
+                "replaces": "Longswordsman",
+                "uniqueTo": "Mewni Kingdom",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+                "uniques": ["[+33]% Strength <upon being promoted>"],
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
+{
+		"name": "Great Queen",
+                "replaces": "Great General",
+                "strength": 15,
+                "uniqueTo": "Mewni Kingdom",
+		"unitType": "Civilian",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+25]% Strength bonus for [Military] units within [2] tiles",
+            "[+25]% Strength bonus for [Solarian Warrior] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+{
 "name": "Ink Blot Mouse",
 "uniqueTo": "House of Mouse",
 "replaces": "Great War Infantry",
