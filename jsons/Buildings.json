@@ -1,5 +1,41 @@
 [
 {
+		"name": "Chicken Farm",
+                "uniqueTo": "Los Pollos Hermanos",
+                "replaces": "Market",
+		"gold": 2,
+                "food": 1,
+                "production": 1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+{
+		"name": "Meth Laboratory",
+                "uniqueTo": "Meth Empire",
+                "replaces": "Factory",
+		"cost": 360,
+		"production": 4,
+                "happiness": 4,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredResource": "Coal",
+		"requiredTech": "Industrialization"
+	},
+{
+		"name": "Clubhouse",
+                "uniqueTo": "Literature Club",
+"replaces": "Library",
+		"hurryCostModifier": 25,
+		"culture": 2,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+{
 		"name": "Security Site",
                 "uniqueTo": "SCP Foundation",
 "replaces": "Palace",

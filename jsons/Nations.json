@@ -1,5 +1,117 @@
 [
 {
+		"name": "Los Pollos Hermanos",
+		"leaderName": "Gustavo Fring",
+		"adjective": ["Los Pollos Hermanos]"],
+		"startBias": ["Plains"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [255, 243, 181],
+		"innerColor": [204, 68, 41],
+		"uniqueName": "Beneath the Surface",
+		"uniques": ["[+2 Production] per every [6] [Gold]","[+1 Production] from all [Gold] buildings"],
+		"cities": ["Gusville",
+"Chicken Town",
+"Fring's Nest",
+"El Pollo City",
+"Los Pollos Plaza",
+"Over-the-Border",
+"Hen Haven",
+"Fried Fields",
+"Cartel Corner",
+"Diner's Delight"],
+        "spyNames": ["Mister Afghanistan"]
+    },
+
+{
+		"name": "Meth Empire",
+		"leaderName": "Walter White",
+		"adjective": ["Meth Empire]"],
+		"startBias": ["Desert"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [252, 236, 204],
+		"innerColor": [71, 160, 255],
+		"uniqueName": "Say my Name",
+		"uniques": ["[+2 Gold, +1 Production] per [5] population [in all cities]","[+1 Gold, +1 Production] from [Strategic resource] tiles [in all cities]"],
+		"cities": ["Heisenberg Heights",
+"Blue Sky City",
+"Crystal Plains",
+"Lab City",
+"Breaking Badlands",
+"Jesse's Junction",
+"Drug Den",
+"Waltersburg",
+"Cartel Capital",
+"Cookstown"],
+        "spyNames": ["Mister Afghanistan"]
+    },
+{
+		"name": "Literature Club",
+		"leaderName": "Monika",
+		"adjective": ["Literature Club]"],
+		"startBias": ["Coast"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [222, 140, 255],
+		"innerColor": [64, 40, 74],
+		"uniqueName": "Glitch in the Matrix",
+		"uniques": ["[+1 Science] from every specialist [in all cities] <during a Golden Age>","[+1 Science] per [1] population [in all cities] <during a Golden Age>"],
+		"cities": ["Literature City",
+"Monikapolis",
+"Sayoritown",
+"Yuri Heights",
+"Natsuki's Haven",
+"Glitchville",
+"Poetry Point",
+"Verse Valley",
+"Epistolary",
+"Proseburg",
+"Narrativa",
+"Script City"],
+        "spyNames": ["Mister Afghanistan"]
+    },
+
+{
 		"name": "SCP Foundation",
 		"leaderName": "05 Council",
 		"adjective": ["SCP]"],
@@ -338,7 +450,7 @@ From junction with the testes to tip of it's face",
 		"outerColor": [43, 18, 18],
 		"innerColor": [255, 82, 82],
 		"uniqueName": "Gotta Grind",
-		"uniques": ["[+33]% to Flank Attack bonuses","[+2 Gold] per [4] population [in all cities]","[+2 Faith] per [4] population [in all cities]","[+2 Culture] per [4] population [in all cities]","[+2 Production] per [5] population [in all cities]"],
+		"uniques": ["[+10]% to Flank Attack bonuses","[+1 Gold] per [4] population [in all cities]","[+1 Faith] per [4] population [in all cities]","[+1 Culture] per [4] population [in all cities]","[+1 Production] per [5] population [in all cities]"],
 		"cities": ["Ferrairi","Muscle land","Weight Lift","Lifting","Calistheny"],
         "spyNames": ["Smart Fella"]
     },

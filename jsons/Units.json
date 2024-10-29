@@ -1,5 +1,39 @@
 [
 {
+		"name": "Enforcer",
+                "replaces": "Marine",
+                "uniqueTo": "Los Pollos Hermanos",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 65,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["[-15]% Strength for enemy [Military] units in adjacent [All] tiles","[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
+		"attackSound": "shot"
+	},
+{
+		"name": "Meth Dealer",
+                "replaces": "Great Merchant",
+                "uniqueTo": "Meth Empire",
+		"unitType": "Civilian",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence",
+            "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+{
+		"name": "Literature Enthusiast",
+                "replaces": "Great Scientist",
+                "uniqueTo": "Literature Club",
+		"unitType": "Civilian",
+		"uniques": ["Gain [40] [Culture] <by consuming this unit>","Gain [25] [Science] <by consuming this unit>",
+            "Can hurry technology research",
+            "Can instantly construct a [Academy] improvement <once>",
+            "Great Person - [Science]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+{
 		"name": "Nine Tailed Fox",
                 "replaces": "Infantry",
                 "uniqueTo": "SCP Foundation",
