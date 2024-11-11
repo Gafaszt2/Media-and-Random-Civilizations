@@ -1,5 +1,29 @@
 [
 {
+		"name": "Writer",
+                "uniqueTo": "Cloud Kingdom",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 24,
+		"cost": 140,
+		"requiredTech": "Printing Press",
+		"uniques": ["Can move after attacking"],
+		"attackSound": "metalhit"
+	},
+{
+		"name": "Islamic Robot",
+                "replaces": "Giant Death Robot",
+                "uniqueTo": "The United Arab Republic",
+		"unitType": "Armored",
+		"movement": 6,
+		"strength": 210,
+		"cost": 425,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Uranium",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "gdrAttack"
+	},
+{
 		"name": "Enforcer",
                 "replaces": "Marine",
                 "uniqueTo": "Los Pollos Hermanos",

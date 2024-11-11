@@ -1,5 +1,59 @@
 [
 {
+		"name": "Cloud Kingdom",
+		"leaderName": "Suetonius",
+		"adjective": ["Cloud Kingdom]"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [240, 245, 196],
+		"innerColor": [153, 101, 58],
+		"uniqueName": "Writters of Fate",
+		"uniques": ["[+3 Faith, +1 Culture] from [Mountain] tiles [in all cities]","[+30]% City Strength from defensive buildings"],
+		"cities": ["Espomopio", "Etomiia", "Enopios", "Epni", "Otonimea", "Hotumoia", "Heriea", "Opag", "Tsonipos", "Atpotonis"],
+        "spyNames": ["Mister Arab"]
+    },
+{
+		"name": "The United Arab Republic",
+		"leaderName": "Gamal Abdel Nasser",
+		"adjective": ["The United Arab Republic]"],
+		"startBias": ["Flood plains"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [57, 69, 45],
+		"innerColor": [252, 255, 227],
+		"uniqueName": "Arab Unity",
+		"uniques": ["[+2 Gold, +2 Culture] from [Oasis] tiles [in all cities]","No Maintenance costs for improvements in [Desert] tiles","Double quantity of [Oil] produced","[+25]% Great Person generation [in capital]"],
+		"cities": ["Cairo","Damascus","Alexandria","Beirut","Giza","Aleppo","Luxor","Homs","Aswan","Port Said","Hama","Marsa Matruh","Tanta"],
+        "spyNames": ["Mister Arab"]
+    },
+{
 		"name": "Los Pollos Hermanos",
 		"leaderName": "Gustavo Fring",
 		"adjective": ["Los Pollos Hermanos]"],

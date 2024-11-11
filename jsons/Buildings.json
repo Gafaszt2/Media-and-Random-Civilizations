@@ -1,5 +1,16 @@
 [
 {
+		"name": "Radio Cairo",
+                "uniqueTo": "The United Arab Republic",
+                "replaces": "Broadcast Tower",
+		"culture": 5,
+		"percentStatBonus": {"culture": 33},
+		"requiredBuilding": "Museum",
+		"maintenance": 1,
+		"requiredTech": "Radio",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+{
 		"name": "Chicken Farm",
                 "uniqueTo": "Los Pollos Hermanos",
                 "replaces": "Market",
