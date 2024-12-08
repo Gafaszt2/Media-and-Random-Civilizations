@@ -1,5 +1,67 @@
 [
 {
+		"name": "Aladeen Language School",
+                "uniqueTo": "Republic of Wadiya",
+                "replaces": "Public School",
+		"science": 3,
+		"specialistSlots": {"Scientist": 1},
+		"requiredBuilding": "University",
+		"culture": 3,
+		"hurryCostModifier": 0,
+		"uniques": ["[+1 Science] per [2] population [in this city]","[+1 Culture] per [5] population [in this city]"],
+		"requiredTech": "Scientific Theory"
+	},
+{
+		"name": "Texas University",
+                "uniqueTo": "Dominion",
+                "replaces": "University",
+		"science": 3,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]","[+1 Science] from [Stone] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+{
+		"name": "Mc Donalds Palace",
+                "uniqueTo": "Avocadopolis",
+                "replaces": "Military Academy",
+
+		"hurryCostModifier": 0,
+		"maintenance": 1,
+                "food": 6,
+		"requiredBuilding": "Armory",
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Military Science"
+	},
+{
+		"name": "Anti Mc Donalds Palace",
+                "uniqueTo": "Skinny Palace",
+                "replaces": "Military Academy",
+
+		"hurryCostModifier": 0,
+		"maintenance": 1,
+                "production": 3,
+		"requiredBuilding": "Armory",
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Military Science"
+	},
+{
+		"name": "Fat Eraser Factory",
+                "uniqueTo": "Skinny Palace",
+                "replaces": "Factory",
+		"cost": 360,
+		"production": 4,
+                "food": 2,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredTech": "Industrialization"
+	},
+{
 		"name": "Radio Cairo",
                 "uniqueTo": "The United Arab Republic",
                 "replaces": "Broadcast Tower",

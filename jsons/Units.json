@@ -1,5 +1,44 @@
 [
 {
+		"name": "Pointy Missile",
+                "replaces": "Guided Missile",
+                "uniqueTo": "Republic of Wadiya",
+		"unitType": "Missile",
+		"movement": 3,
+		"strength": 80,
+		"rangedStrength": 80,
+		"range": 9,
+		"cost": 150,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["[-100]% maintenance costs"],
+		"attackSound": "missile"
+	},
+{
+		"name": "Senator",
+                "replaces": "Marine",
+                "uniqueTo": "Dominion",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 89,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"attackSound": "shot"
+	},
+{
+		"name": "Scooter",
+                "replaces": "Tank",
+                "uniqueTo": "Avocadopolis",
+		"unitType": "Armored",
+		"movement": 5,
+		"strength": 95,
+		"cost": 355,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+{
 		"name": "Writer",
                 "uniqueTo": "Cloud Kingdom",
 		"unitType": "Sword",
