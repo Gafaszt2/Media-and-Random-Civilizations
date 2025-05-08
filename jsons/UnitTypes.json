@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Living Meat",
+        "uniques": [
+    "[-20]% Strength <before turn number [50]>",
+"[+20]% Strength <before turn number [150]>",
+"[+35]% Strength <when above [350] [Living Meat]>",
+"[+45]% Strength <when above [450] [Living Meat]>",
+"[+50]% Strength <when above [550] [Living Meat]>",
+"[+55]% Strength <when above [650] [Living Meat]>",
+"[+60]% Strength <when above [750] [Living Meat]>"],
+        "movementType": "Land"
+    },
+    {
+        "name": "Water Living Meat",
+        "uniques": [
+    "[-20]% Strength <before turn number [50]>",
+"[+20]% Strength <before turn number [150]>",
+"[+35]% Strength <when above [350] [Living Meat]>",
+"[+45]% Strength <when above [450] [Living Meat]>",
+"[+50]% Strength <when above [550] [Living Meat]>",
+"[+55]% Strength <when above [650] [Living Meat]>",
+"[+60]% Strength <when above [750] [Living Meat]>"],
+        "movementType": "Water"
+    }
+]

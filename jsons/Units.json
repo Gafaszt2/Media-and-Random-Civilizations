@@ -1,4 +1,101 @@
 [
+	{
+		"name": "Meat Shark",
+		"uniqueTo": "The Cult",
+		"unitType": "Water Living Meat",
+		"movement": 2,
+		"strength": 15,
+		"cost": 106,
+		"promotions":["Ignore terrain cost"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Monolith",
+		"uniqueTo": "The Cult",
+		"unitType": "Living Meat",
+		"movement": 2,
+		"strength": 25,
+		"cost": 106,
+		"promotions":["Ignore terrain cost"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Harvester",
+		"uniqueTo": "The Cult",
+		"unitType": "Living Meat",
+		"movement": 1,
+		"strength": 20,
+		"cost": 106,
+		"promotions":["Ignore terrain cost"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Mimic",
+		"uniqueTo": "The Cult",
+		"unitType": "Living Meat",
+		"movement": 2,
+		"strength": 15,
+		"cost": 106,
+		"promotions":["Ignore terrain cost"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Meat Snake",
+		"uniqueTo": "The Cult",
+		"unitType": "Living Meat",
+		"movement": 2,
+		"strength": 10,
+		"cost": 106,
+		"promotions":["Ignore terrain cost"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Trimming",
+		"uniqueTo": "The Cult",
+		"unitType": "Living Meat",
+		"movement": 2,
+		"strength": 5,
+		"cost": 106,
+		"uniques": ["[-20]% Strength <vs cities> <when attacking>"],
+		"promotions":["Ignore terrain cost"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Crawl",
+		"uniqueTo": "The Cult",
+		"replaces": "Settler",
+		"unitType": "Living Meat",
+		"movement": 1,
+		"strength": 2,
+		"cost": 106,
+		"uniques": ["May enter foreign tiles without open borders","Uncapturable","Consumes [-4] [Living Meat] <in [All] tiles> <hidden from users>",
+		            "[+2000]% Strength <vs [Barbarian] units> <hidden from users>",
+					////// Basic Stuff
+		            "[1] free [Crawl] units appear <for [3] movement> <costs [35] [Living Meat]>",
+					////// Land Units
+					"[1] free [Trimming] units appear <for [3] movement> <costs [10] [Living Meat]>",
+					"[1] free [Meat Snake] units appear <for [3] movement> <costs [25] [Living Meat]>",
+					"[1] free [Mimic] units appear <for [3] movement> <costs [48] [Living Meat]>",
+					"[1] free [Harvester] units appear <for [3] movement> <costs [70] [Living Meat]>",
+					"[1] free [Monolith] units appear <for [3] movement> <costs [160] [Living Meat]>",
+					//// Marine Units
+				    "[1] free [Meat Shark] units appear <for [3] movement> <costs [70] [Living Meat]>"],
+		"promotions":["Ignore terrain cost"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Juanito Bonito",
+		"replaces": "Scout",
+        "uniqueTo": "Gringos",
+		"unitType": "Scout",
+		"movement": 3,
+		"strength": 7,
+		"cost": 20,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost","Woodsman"],
+		"attackSound": "nonmetalhit"
+	},
 {
 		"name": "Pointy Missile",
                 "replaces": "Guided Missile",
@@ -72,7 +169,7 @@
 		"cost": 400,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
-		"uniques": ["[-15]% Strength for enemy [Military] units in adjacent [All] tiles","[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
+		"uniques": ["[-15]% Strength for enemy [Military] units in adjacent [All] tiles","[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>"],
 		"attackSound": "shot"
 	},
 {

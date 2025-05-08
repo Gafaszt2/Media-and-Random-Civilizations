@@ -1,4 +1,66 @@
 [
+	{
+		"name": "The Cult",
+		"leaderName": "Armed Guards",
+		"adjective": ["The Cult]"],
+		"startBias": ["None"],
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 0, 0],
+		"uniqueName": "The Living Meat, The Life of the Flesh",
+		"uniques": ["[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
+			"Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
+		"cities": ["they dont have cities lol"]
+    },
+	{
+		"name": "Gringos",
+		"leaderName": "Unstoppable Streletsy",
+		"adjective": ["Gringos]"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [156, 255, 182],
+		"innerColor": [24, 41, 28],
+		"uniqueName": "Long Lost Ages of the Empires",
+		"uniques": ["[-30]% Production when constructing [Gunpowder] units [in all cities]","[+50]% of excess happiness converted to [Production]"],
+		"cities": ["Streletsy City",
+"Little Juanita",
+"Juanita's Haven",
+"Supreme Choryzo",
+"Loyalist GafaS",
+"Revolutionary Viringo",
+"Latina Oasis",
+"Republican Settlement",
+"Letsy's Refuge"],
+        "spyNames": ["Gafas","Chory","Viringo","Biboo","Maston"]
+    },
 {
 		"name": "Republic of Wadiya",
 		"leaderName": "General Aladeen",

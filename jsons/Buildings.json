@@ -1,4 +1,12 @@
 [
+	{
+		"name": "Blockhouse",
+		"uniqueTo": "Gringos",
+        "replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"uniques": ["New [Military] units start with [19] XP [in this city]","[+1 Production] per [3] population [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
 {
 		"name": "Aladeen Language School",
                 "uniqueTo": "Republic of Wadiya",
@@ -32,7 +40,7 @@
 		"maintenance": 1,
                 "food": 6,
 		"requiredBuilding": "Armory",
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Military Science"
 	},
 {
@@ -44,7 +52,7 @@
 		"maintenance": 1,
                 "production": 3,
 		"requiredBuilding": "Armory",
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Military Science"
 	},
 {
@@ -156,14 +164,14 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Arsenal",
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["New [Military] units start with [10] Experience [in this city]","[+10]% Production when constructing [All] buildings [in this city]","Destroyed when the city is captured"]
+		"uniques": ["New [Military] units start with [10] XP [in this city]","[+10]% Production when constructing [All] buildings [in this city]","Destroyed when the city is captured"]
 	},
 {
 		"name": "Gym",
                 "uniqueTo": "Based Empire",
 		"replaces": "Barracks",
 		"hurryCostModifier": 25,
-		"uniques": ["New [Military] units start with [20] Experience [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [20] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
 {

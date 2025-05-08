@@ -1,0 +1,7 @@
+[	
+	{   
+		"name": "Living Meat",
+		"resourceType": "Strategic",
+		"uniques":["Not shown on world screen <without [Living Meat]>","Cannot be traded","Stockpiled"]
+	}
+]
