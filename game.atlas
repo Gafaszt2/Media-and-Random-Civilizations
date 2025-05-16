@@ -27,140 +27,140 @@ BuildingIcons/Anti Mc Donalds Palace
   index: -1
 BuildingIcons/Blockhouse
   rotate: false
-  xy: 470, 864
+  xy: 720, 1114
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Chicken Farm
   rotate: false
-  xy: 1186, 1580
+  xy: 1436, 1830
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Clubhouse
   rotate: false
-  xy: 1544, 1938
+  xy: 4, 290
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fat Eraser Factory
   rotate: false
-  xy: 470, 756
+  xy: 828, 1114
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Gym
   rotate: false
-  xy: 578, 756
+  xy: 1186, 1364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Kazakh Granary
   rotate: false
-  xy: 4, 74
+  xy: 578, 648
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Krusty Krabs
   rotate: false
-  xy: 220, 290
+  xy: 1294, 1364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mc Donalds Palace
   rotate: false
-  xy: 1760, 1830
+  xy: 220, 182
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Meth Laboratory
   rotate: false
-  xy: 1868, 1830
+  xy: 328, 506
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Radio Cairo
   rotate: false
-  xy: 544, 108
+  xy: 686, 648
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Reactor
   rotate: false
-  xy: 686, 648
+  xy: 652, 324
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Security Site
   rotate: false
-  xy: 652, 216
+  xy: 902, 898
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Swamp House
   rotate: false
-  xy: 1010, 898
+  xy: 1152, 1148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Texas University
   rotate: false
-  xy: 1010, 790
+  xy: 1260, 1256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/The Core
   rotate: false
-  xy: 1010, 682
+  xy: 1152, 1040
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Village
   rotate: false
-  xy: 1368, 1256
+  xy: 1510, 1506
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Wallnut Walls
   rotate: false
-  xy: 1368, 1148
+  xy: 1618, 1614
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Warp Pipes
   rotate: false
-  xy: 1368, 1040
+  xy: 1510, 1398
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Pagoda
   rotate: false
-  xy: 436, 432
+  xy: 544, 432
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Pool
   rotate: false
-  xy: 544, 216
+  xy: 686, 756
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -174,7 +174,7 @@ LeaderIcons/05 Council
   index: -1
 LeaderIcons/Asgore Dreammur
   rotate: false
-  xy: 4, 398
+  xy: 112, 506
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -200,9 +200,16 @@ LeaderIcons/Dr Zomboss
   orig: 350, 350
   offset: 0, 0
   index: -1
+LeaderIcons/FBE
+  rotate: false
+  xy: 720, 1006
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 LeaderIcons/Fat Nikokado Avocado
   rotate: false
-  xy: 578, 864
+  xy: 936, 1222
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -216,42 +223,42 @@ LeaderIcons/Fat Woman
   index: -1
 LeaderIcons/G Man
   rotate: false
-  xy: 828, 1114
+  xy: 1186, 1472
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/G Toilet
   rotate: false
-  xy: 936, 1222
+  xy: 1294, 1580
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/Gamal Abdel Nasser
   rotate: false
-  xy: 1078, 1364
+  xy: 1436, 1722
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/General Aladeen
   rotate: false
-  xy: 1436, 1722
+  xy: 4, 182
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/Gigachad
   rotate: false
-  xy: 1652, 1938
+  xy: 220, 398
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/Gustavo Fring
   rotate: false
-  xy: 470, 648
+  xy: 936, 1114
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -265,7 +272,7 @@ LeaderIcons/Mickey Mouse
   index: -1
 LeaderIcons/Monika
   rotate: false
-  xy: 328, 506
+  xy: 328, 182
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -293,14 +300,14 @@ LeaderIcons/Peach
   index: -1
 LeaderIcons/Peter
   rotate: false
-  xy: 436, 324
+  xy: 544, 324
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/Senator Steven Armstrong
   rotate: false
-  xy: 794, 898
+  xy: 902, 790
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -314,35 +321,35 @@ LeaderIcons/Shrek
   index: -1
 LeaderIcons/Skinny Nikokado Avocado
   rotate: false
-  xy: 794, 682
+  xy: 1044, 1114
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/Steve
   rotate: false
-  xy: 1044, 1114
+  xy: 1010, 682
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/Suetonius
   rotate: false
-  xy: 1044, 1006
+  xy: 1152, 1256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/Titan TV Men
   rotate: false
-  xy: 1152, 1040
+  xy: 1402, 1472
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/Unstoppable Streletsy
   rotate: false
-  xy: 1402, 1364
+  xy: 1510, 1614
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -356,315 +363,329 @@ LeaderIcons/Walter White
   index: -1
 NationIcons/Avocadopolis
   rotate: false
-  xy: 112, 506
+  xy: 362, 756
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Based Empire
   rotate: false
-  xy: 362, 756
+  xy: 470, 864
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Bridon Production
   rotate: false
-  xy: 720, 1114
+  xy: 828, 1222
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Cloud Kingdom
   rotate: false
-  xy: 1436, 1830
+  xy: 1544, 1938
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Dominion
   rotate: false
-  xy: 220, 506
+  xy: 470, 756
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Future Earth Alliance
   rotate: false
-  xy: 720, 1006
+  xy: 1078, 1364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Garden House
   rotate: false
-  xy: 1186, 1472
+  xy: 1544, 1830
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Gringos
   rotate: false
-  xy: 220, 398
+  xy: 828, 1006
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/House of Mouse
   rotate: false
-  xy: 936, 1114
+  xy: 1544, 1722
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Kazakhstan
   rotate: false
-  xy: 112, 182
+  xy: 936, 1006
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Literature Club
   rotate: false
-  xy: 578, 648
+  xy: 1652, 1722
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Los Pollos Hermanos
   rotate: false
-  xy: 1652, 1722
+  xy: 112, 74
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Meth Empire
   rotate: false
-  xy: 1760, 1722
+  xy: 1868, 1722
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Mewni Kingdom
   rotate: false
-  xy: 220, 74
+  xy: 328, 398
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Monsterkind
   rotate: false
-  xy: 328, 290
+  xy: 436, 540
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Mushroom Kingdom
   rotate: false
-  xy: 328, 182
+  xy: 436, 432
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Petoria
   rotate: false
-  xy: 544, 432
+  xy: 436, 108
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Pillager Society
   rotate: false
-  xy: 544, 324
+  xy: 544, 108
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Reactorland
+  rotate: false
+  xy: 652, 216
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Socialist Cave
+  rotate: false
+  xy: 652, 216
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Republic of Wadiya
   rotate: false
-  xy: 652, 540
+  xy: 652, 108
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Shrek Swamp
   rotate: false
-  xy: 794, 790
+  xy: 902, 682
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Skibidi Toilets
   rotate: false
-  xy: 902, 898
+  xy: 1044, 1222
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Skinny Palace
   rotate: false
-  xy: 902, 790
+  xy: 1044, 1006
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Cult
   rotate: false
-  xy: 1152, 1256
+  xy: 1260, 1148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The United Arab Republic
   rotate: false
-  xy: 1152, 1148
+  xy: 1260, 1040
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Village
   rotate: false
-  xy: 1260, 1256
+  xy: 1402, 1580
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Undersea
   rotate: false
-  xy: 1402, 1472
+  xy: 1368, 1040
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Zombies
   rotate: false
-  xy: 1618, 1614
+  xy: 1618, 1398
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Living Meat
   rotate: false
-  xy: 1294, 1364
+  xy: 1868, 1938
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Car Pulled By Horses
   rotate: false
-  xy: 1510, 1402
+  xy: 1726, 1510
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Chad
   rotate: false
-  xy: 1618, 1510
+  xy: 1834, 1618
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Cook
   rotate: false
-  xy: 1726, 1618
+  xy: 1726, 1406
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gargantuar Zombie
   rotate: false
-  xy: 1830, 1618
+  xy: 1938, 1618
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Queen
   rotate: false
-  xy: 1934, 1618
+  xy: 436, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ink Blot Mouse
   rotate: false
-  xy: 1510, 1298
+  xy: 540, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Golem
   rotate: false
-  xy: 1476, 1194
+  xy: 644, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Islamic Robot
   rotate: false
-  xy: 1476, 1090
+  xy: 760, 544
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Jack
   rotate: false
-  xy: 1476, 986
+  xy: 760, 440
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Literature Enthusiast
   rotate: false
-  xy: 436, 4
+  xy: 760, 336
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nine Tailed Fox
   rotate: false
-  xy: 540, 4
+  xy: 760, 232
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ogre
   rotate: false
-  xy: 644, 4
+  xy: 760, 128
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Pea Shooter
   rotate: false
-  xy: 760, 544
+  xy: 864, 578
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Pillager
   rotate: false
-  xy: 760, 440
+  xy: 864, 474
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Pointy Missile
   rotate: false
-  xy: 760, 336
+  xy: 968, 578
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rasta Man
   rotate: false
-  xy: 760, 232
+  xy: 864, 370
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ravager
   rotate: false
-  xy: 760, 128
+  xy: 968, 474
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
@@ -678,105 +699,119 @@ TileSets/AbsoluteUnits/Units/Royal Guard
   index: -1
 TileSets/AbsoluteUnits/Units/Scooter
   rotate: false
-  xy: 864, 578
+  xy: 864, 266
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Senator
   rotate: false
-  xy: 864, 474
+  xy: 968, 370
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Solarian Warrior
   rotate: false
-  xy: 968, 578
+  xy: 864, 162
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Toad Guard
   rotate: false
-  xy: 864, 370
+  xy: 968, 266
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Writer
   rotate: false
-  xy: 968, 474
+  xy: 968, 162
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Zombie with Bucket
   rotate: false
-  xy: 864, 266
+  xy: 1072, 578
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Pool
   rotate: false
-  xy: 968, 337
+  xy: 1072, 367
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Armenian Actress
+  rotate: false
+  xy: 1072, 477
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Batyr Champions
-  rotate: false
-  xy: 1072, 645
-  size: 32, 29
-  orig: 32, 29
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Crawl
-  rotate: false
-  xy: 76, 37
-  size: 32, 29
-  orig: 32, 29
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Harvester
-  rotate: false
-  xy: 968, 373
-  size: 32, 29
-  orig: 32, 29
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Meat Shark
-  rotate: false
-  xy: 864, 165
-  size: 32, 29
-  orig: 32, 29
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Meat Snake
   rotate: false
   xy: 1976, 1869
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Crawl
+  rotate: false
+  xy: 148, 37
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Creative Commons General
+  rotate: false
+  xy: 1072, 440
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Harvester
+  rotate: false
+  xy: 1976, 1832
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Meat Shark
+  rotate: false
+  xy: 188, 37
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Meat Snake
+  rotate: false
+  xy: 1072, 403
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Mimic
   rotate: false
-  xy: 1072, 608
+  xy: 1976, 1795
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Monolith
   rotate: false
-  xy: 116, 37
+  xy: 228, 37
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trimming
   rotate: false
-  xy: 864, 128
+  xy: 1976, 1758
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
@@ -790,287 +825,301 @@ TileSets/HexaRealm/Tiles/City center-Ancient era-Undersea
   index: -1
 TileSets/HexaRealm/Tiles/City center-Undersea
   rotate: false
-  xy: 968, 410
+  xy: 1072, 514
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Farm-Undersea
   rotate: false
-  xy: 864, 202
+  xy: 1976, 1906
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Pagoda
   rotate: false
-  xy: 1976, 1906
+  xy: 76, 10
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-UnitIcons/Car Pulled By Horses
+UnitIcons/Armenian Actress
   rotate: false
-  xy: 828, 1222
+  xy: 4, 398
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Chad
+UnitIcons/Car Pulled By Horses
   rotate: false
   xy: 1078, 1472
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Cook
+UnitIcons/Chad
   rotate: false
-  xy: 4, 290
+  xy: 1186, 1580
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Crawl
+UnitIcons/Cook
   rotate: false
   xy: 112, 398
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Enforcer
+UnitIcons/Crawl
+  rotate: false
+  xy: 220, 506
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Creative Commons General
   rotate: false
   xy: 362, 648
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Enforcer
+  rotate: false
+  xy: 578, 864
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Gargantuar Zombie
   rotate: false
-  xy: 1294, 1580
+  xy: 1652, 1938
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Giant TV Titan
   rotate: false
-  xy: 1544, 1830
+  xy: 112, 290
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Great Dictator
   rotate: false
-  xy: 4, 182
+  xy: 470, 648
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Great Queen
   rotate: false
-  xy: 112, 290
+  xy: 578, 756
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Harvester
   rotate: false
-  xy: 828, 1006
+  xy: 1294, 1472
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ink Blot Mouse
   rotate: false
-  xy: 1186, 1364
+  xy: 1652, 1830
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Iron Golem
   rotate: false
-  xy: 1294, 1472
+  xy: 1760, 1938
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Islamic Robot
   rotate: false
-  xy: 1544, 1722
+  xy: 4, 74
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Jack
   rotate: false
-  xy: 1652, 1830
+  xy: 112, 182
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Juanito Bonito
   rotate: false
-  xy: 1760, 1938
+  xy: 220, 290
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Literature Enthusiast
   rotate: false
-  xy: 936, 1006
+  xy: 1760, 1830
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Meat Shark
   rotate: false
-  xy: 1868, 1938
+  xy: 1760, 1722
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Meat Snake
   rotate: false
-  xy: 112, 74
+  xy: 1868, 1830
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Meth Dealer
   rotate: false
-  xy: 220, 182
+  xy: 220, 74
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Mimic
   rotate: false
-  xy: 1868, 1722
+  xy: 328, 290
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Monolith
   rotate: false
-  xy: 328, 398
+  xy: 328, 74
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Nine Tailed Fox
   rotate: false
-  xy: 328, 74
+  xy: 544, 540
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ogre
   rotate: false
-  xy: 436, 540
+  xy: 436, 324
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Pea Shooter
   rotate: false
-  xy: 544, 540
+  xy: 436, 216
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Pillager
   rotate: false
-  xy: 436, 216
+  xy: 544, 216
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Pointy Missile
   rotate: false
-  xy: 436, 108
+  xy: 686, 864
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rasta Man
   rotate: false
-  xy: 686, 864
+  xy: 652, 540
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ravager
   rotate: false
-  xy: 686, 756
+  xy: 652, 432
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Royal Guard
   rotate: false
-  xy: 652, 432
+  xy: 794, 898
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Scooter
   rotate: false
-  xy: 652, 324
+  xy: 794, 790
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Senator
   rotate: false
-  xy: 652, 108
+  xy: 794, 682
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Solarian Warrior
   rotate: false
-  xy: 902, 682
+  xy: 1010, 898
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Speakerman
   rotate: false
-  xy: 1044, 1222
+  xy: 1010, 790
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Toad Guard
   rotate: false
-  xy: 1260, 1148
+  xy: 1402, 1364
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Toilet
   rotate: false
-  xy: 1260, 1040
+  xy: 1368, 1256
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Trimming
   rotate: false
-  xy: 1402, 1580
+  xy: 1368, 1148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Writer
   rotate: false
-  xy: 1510, 1614
+  xy: 1618, 1506
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Zombie with Bucket
   rotate: false
-  xy: 1510, 1506
+  xy: 1726, 1614
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

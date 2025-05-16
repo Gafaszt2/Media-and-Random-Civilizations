@@ -1,5 +1,29 @@
 [
 	{
+		"name": "Creative Commons General",
+		"replaces": "Great General",
+        "uniqueTo": "Reactorland",
+		"unitType": "Civilian",
+		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+20]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+            "Is part of Great Person group [General]",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 3
+	},
+	{
+		"name": "Armenian Actress",
+		"replaces": "Great Artist",
+        "uniqueTo": "Reactorland",
+		"unitType": "Civilian",
+		"uniques": [
+            "Empire enters a [16]-turn Golden Age <by consuming this unit>",
+            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
+		"movement": 3
+	},
+	{
 		"name": "Meat Shark",
 		"uniqueTo": "The Cult",
 		"unitType": "Water Living Meat",

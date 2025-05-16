@@ -1,5 +1,40 @@
 [
 	{
+		"name": "Reactorland",
+		"leaderName": "FBE",
+		"adjective": ["Reactorland]"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [30, 166,0],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Armenian Women Certified Simp",
+		"uniques": ["[+5]% growth [in all cities]","Allied City-States provide [Culture] equal to [+40]% of what they produce for themselves","Allied City-States provide [Science] equal to [+40]% of what they produce for themselves"],
+		"cities": ["Grace",
+"Evelina Shahiryan",
+"I need Food",
+"Araksya Khachatryan",
+"Ur White",
+"Send Food",
+"OH NO",
+"Lake Water",
+"Phatnom"],
+        "spyNames": ["Gafas","Grace","BasicName","X2003"]
+    },
+	{
 		"name": "The Cult",
 		"leaderName": "Armed Guards",
 		"adjective": ["The Cult]"],
