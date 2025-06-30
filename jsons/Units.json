@@ -1,5 +1,18 @@
 [
 	{
+		"name": "Monkey",
+		"replaces": "Scout",
+        "uniqueTo": "The Bandar-log",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["[+100]% Strength <when fighting in [Jungle] tiles>","May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	{
 		"name": "Creative Commons General",
 		"replaces": "Great General",
         "uniqueTo": "Reactorland",

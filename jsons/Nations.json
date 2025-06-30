@@ -1,5 +1,32 @@
 [
 	{
+		"name": "The Bandar-log",
+		"leaderName": "King Louie",
+		"adjective": ["The Bandar-log]"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [255, 232, 189],
+		"innerColor": [209, 21, 0],
+		"uniqueName": "I Wanna Be Like You",
+		"uniques": ["[+1 Culture] from every [Jungle]","Earn [20]% of the damage done to [All] units as [Science]","All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."],
+		"cities": ["Louie’s Lair","Monkey Palace","Treefort Terrace","The Ancient Ruin","King’s Canopy","Vinehold","Banana Bend","Jazzroot Grove","Howler Hollow","Simian Reach"],
+        "spyNames": ["Gafas","Grace","BasicName","X2003"]
+    },
+	{
 		"name": "Reactorland",
 		"leaderName": "FBE",
 		"adjective": ["Reactorland]"],
