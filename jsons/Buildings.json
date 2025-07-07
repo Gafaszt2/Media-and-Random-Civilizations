@@ -1,5 +1,16 @@
 [
 	{
+		"name": "Vervalst",
+		"uniqueTo": "The Geuzen",
+        "replaces": "Armory",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"happiness": 2,
+		"requiredBuilding": "Barracks",
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Steel"
+	},
+	{
 		"name": "Temple Groove",
 		"uniqueTo": "The Bandar-log",
         "replaces": "Temple",

@@ -1,5 +1,17 @@
 [
 	{
+		"name": "Elite Lacus",
+		"replaces": "Mechanized Infantry",
+        "uniqueTo": "The Geuzen",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 90,
+		"cost": 375,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["[+60]% Strength <vs [Armored] units>","Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+	{
 		"name": "Monkey",
 		"replaces": "Scout",
         "uniqueTo": "The Bandar-log",
