@@ -1,5 +1,5 @@
 [ 
-        {
+    {
 		"name": "Pagoda",
                 "uniqueTo": "Cloud Kingdom",
 		"terrainsCanBeBuiltOn": ["Hill"],
@@ -7,6 +7,18 @@
 		"techRequired": "Printing Press",
 		"uniques": ["[+2 Faith] for each adjacent [Mountain]",
             "Pillaging this improvement yields approximately [+18 Gold]"],
+		"shortcutKey": "F"
+	},
+	{
+		"name": "Jurassic Park",
+        "uniqueTo": "Ingen",
+		"terrainsCanBeBuiltOn": ["Land","Hill"],
+		"turnsToBuild": 5,
+		"gold": 10,
+		"science": 2,
+		"happiness": 2,
+		"techRequired": "Ecology",
+		"uniques": ["[+1 Science] for each adjacent [Jungle]","Must be next to [Jungle]","Must be next to [Coast]","Tile provides yield without assigned population"],
 		"shortcutKey": "F"
 	},
 	{

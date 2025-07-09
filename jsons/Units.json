@@ -1,5 +1,35 @@
 [
 	{
+		"name": "Dinosaur Hunter",
+		"replaces": "Marine",
+        "uniqueTo": "Ingen",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 65,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["[+50]% Strength <when fighting in [Jungle] tiles>","[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Tun-Si Warrior",
+		"replaces": "Spearman",
+        "uniqueTo": "Ingen",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 12,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"civilopediaText": [
+			{"text": "The people that lived in Isla Nublar (Costa Rica) before InGen arrived."}
+		],
+		"uniques": ["[+50]% Strength <when fighting in [Jungle] tiles>","[+50]% Strength <when defending> <when [Embarked]>","[+50]% Strength <when fighting in [Lakes] tiles>","[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Elite Lacus",
 		"replaces": "Mechanized Infantry",
         "uniqueTo": "The Geuzen",

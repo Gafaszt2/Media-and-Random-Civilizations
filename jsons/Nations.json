@@ -1,5 +1,32 @@
 [
 	{
+		"name": "Ingen",
+		"leaderName": "John Hammond",
+		"adjective": ["Ingen"],
+		"startBias": ["Atoll","Jungle"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [22, 105, 222],
+		"uniqueName": "Welcome, to Jurassic Park",
+		"uniques": ["[+5 Science] <for every [4] [Owned [Jungle] Tiles]>","[+5 Science] <for every [4] [Owned [Atoll] Tiles]>","[+5 Science] <for every [4] [Owned [Natural Wonder] Tiles]>"],
+		"cities": ["Isla Nublar","Isla Sorna","Isla Matanceros","Isla Muerta","Isla Tacaño","Isla Peña", "Site C"],
+        "spyNames": ["Wu","Alan Grant","Ian Malcom","Sara"]
+    },
+	{
 		"name": "The Geuzen",
 		"leaderName": "Dominica",
 		"adjective": ["The Geuzen"],
