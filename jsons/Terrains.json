@@ -1,0 +1,128 @@
+[
+// Minecraft terrains
+    {
+		"name": "Dark River",
+		"type": "Water",
+		"food": 2,
+		"movementCost": 1,
+		"uniques": ["Lakes"],
+		"RGB": [31, 52, 224]
+	},
+	{
+		"name": "Grass Block",
+		"type": "Land",
+		"food": 1,
+		"production": 1,
+		"movementCost": 1,
+		"uniques": ["Grassland"],
+		"RGB": [161, 219, 44]
+	},
+	{
+		"name": "Sand Block",
+		"type": "Land",
+		"production": 1,
+		"movementCost": 1,
+		"uniques": ["Desert"],
+		"RGB": [161, 219, 44]
+	},
+	{
+		"name": "Badlands Block",
+		"type": "Land",
+		"production": 1,
+		"movementCost": 1,
+		"uniques": ["Plains"],
+		"RGB": [161, 219, 44]
+	},
+	{
+		"name": "Mush Block",
+		"type": "Land",
+		"production": 1,
+		"movementCost": 1,
+		"uniques": ["Plains"],
+		"RGB": [161, 219, 44]
+	},
+	{
+		"name": "Snow Block",
+		"type": "Land",
+		"production": 1,
+		"movementCost": 1,
+		"uniques": ["Snow","Tundra"],
+		"RGB": [161, 219, 44]
+	},
+// Minecraft features
+
+    {
+		"name": "MC Oak",
+		"type": "TerrainFeature",
+		"production": 1,
+		"movementCost": 1,
+		"uniques":["Forest"],
+        "occursOn": ["Tundra","Plains","Grassland","Desert","Snow","Grass Block"]
+	},
+	{
+		"name": "MC Pine",
+		"type": "TerrainFeature",
+		"production": 1,
+		"movementCost": 1,
+		"uniques":["Forest"],
+        "occursOn": ["Tundra","Plains","Grassland","Desert","Snow Block","Grass Block"]
+	},
+	{
+		"name": "MC Jungle",
+		"type": "TerrainFeature",
+		"production": 1,
+		"movementCost": 1,
+		"uniques":["Forest"],
+        "occursOn": ["Tundra","Plains","Grassland","Desert","Snow Block","Grass Block"]
+	},
+	{
+		"name": "MC Birch",
+		"type": "TerrainFeature",
+		"production": 1,
+		"movementCost": 1,
+		"uniques":["Forest"],
+        "occursOn": ["Tundra","Plains","Grassland","Desert","Snow Block","Grass Block"]
+	},
+	{
+		"name": "MC Hill",
+		"type": "TerrainFeature",
+		"production": 1,
+		"movementCost": 1,
+		"uniques":["Hill"],
+        "occursOn": ["Tundra","Plains","Grassland","Desert","Snow Block","Grass Block","Badlands Block"]
+	},
+	{
+		"name": "MC Coast",
+		"type": "TerrainFeature",
+		"uniques":["Coast"],
+        "occursOn": ["Coast"]
+	},
+	{
+		"name": "MC Ocean",
+		"type": "TerrainFeature",
+		"uniques":["Ocean"],
+        "occursOn": ["Ocean"]
+	},
+	{
+		"name": "MC Mountain",
+		"type": "TerrainFeature",
+		"production": 2,
+		"movementCost": 1,
+        "occursOn": ["Mountain"]
+	},
+	{
+		"name": "MC Ice Picks",
+		"type": "TerrainFeature",
+		"production": 1,
+		"movementCost": 1,
+		"uniques":["Hill"],
+        "occursOn": ["Snow Block"]
+	},
+    {
+		"name": "Village",
+		"type": "TerrainFeature",
+		"production": 1,
+		"movementCost": 1,
+        "occursOn": ["Tundra","Plains","Grassland","Desert","Snow","Grass Block"]
+	}
+	]

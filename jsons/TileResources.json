@@ -3,5 +3,53 @@
 		"name": "Living Meat",
 		"resourceType": "Strategic",
 		"uniques":["Not shown on world screen <without [Living Meat]>","Cannot be traded","Stockpiled"]
+	},
+	{   
+		"name": "MC Obsidian",
+		"gold": 2,
+		"improvement": "Mine",
+		"terrainsCanBeFoundOn": ["MC Hill"],
+		"resourceType": "Bonus",
+		"uniques":["Iron","Doesn't generate naturally"]
+	},
+	{   
+		"name": "MC Camel",
+		"food": 2,
+		"improvement": "Camp",
+		"terrainsCanBeFoundOn": ["Sand Block"],
+		"resourceType": "Bonus",
+		"uniques":["Cattle","Doesn't generate naturally"]
+	},
+	{   
+		"name": "MC Mooshroom",
+		"food": 2,
+		"improvement": "Camp",
+		"terrainsCanBeFoundOn": ["Mush Block"],
+		"resourceType": "Bonus",
+		"uniques":["Cattle","Doesn't generate naturally"]
+	},
+	{   
+		"name": "MC Armadillo",
+		"food": 2,
+		"improvement": "Camp",
+		"terrainsCanBeFoundOn": ["Badlands Block"],
+		"resourceType": "Bonus",
+		"uniques":["Cattle","Doesn't generate naturally"]
+	},
+	{   
+		"name": "MC Cow",
+		"food": 1,
+		"improvement": "Pasture",
+		"terrainsCanBeFoundOn": ["Grass Block"],
+		"resourceType": "Bonus",
+		"uniques":["Cattle","Doesn't generate naturally"]
+	},
+	{   
+		"name": "MC Dolphin",
+		"gold": 2,
+		"improvement": "Fishing Boats",
+		"terrainsCanBeFoundOn": ["Ocean","Coast"],
+		"resourceType": "Bonus",
+		"uniques":["Whales","Doesn't generate naturally"]
 	}
 ]

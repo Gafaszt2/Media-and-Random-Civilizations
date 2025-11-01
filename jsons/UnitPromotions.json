@@ -1,6 +1,10 @@
 [
 {
+		"name": "Fire Release",
+		"uniques": ["[+10]% Strength"]
+},
+{
 		"name": "Anomaly Hunter",
 		"uniques": ["Earn [50]% of killed [Barbarian] unit's [Cost] as [Gold]","[+45]% Strength <vs [Mounted] units>"],
-        }
+}
 ]

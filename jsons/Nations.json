@@ -1,5 +1,113 @@
 [
 	{
+		"name": "Krypton",
+		"leaderName": "Jor-El",
+		"adjective": ["Krypton"],
+		"startBias": ["None"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [211, 219, 94],
+		"innerColor": [79, 82, 35],
+		"uniqueName": "Children of Krypton",
+		"uniques": ["[+1 Science] per [4] population [in all cities]","[+25]% Strength <when fighting in [Rough terrain] tiles>"],
+		"cities": ["Kryptonopolis", "Kandor", "Xan City", "Argo City", "Wizard City"],
+        "spyNames": ["Kal-El", "Lara Lor-Van", "Kara Zor-El"]
+    },
+	{
+		"name": "The Gerudo",
+		"leaderName": "Urbosa",
+		"adjective": ["The Gerudo"],
+		"startBias": ["None"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [230, 102, 23],
+		"innerColor": [33, 15, 3],
+		"uniqueName": "Scimitar of The Seven",
+		"uniques": ["[Great General] is earned [+50]% faster","[+25]% Strength <for [Mounted] units> <before the [Industrial era]>"],
+		"cities": ["Gerudo Town","Fortress of Nabooru","Spirit Temple","Desert Colossus","Arbiter’s Grounds","Hero’s Shade","Twinrova’s Keep","Vah Naboris","Thieves’ Hideout","Wasteland Crossing","Sand-Sea Outpost","Mirage Dune"],
+        "spyNames": ["Shadow of the Dunes","Whisperblade","Crimson Mirage","Sandshade"]
+    },
+	{
+		"name": "Hyrule",
+		"leaderName": "Zelda",
+		"adjective": ["Hyrule"],
+		"startBias": ["Hill"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [190, 179, 201],
+		"innerColor": [33, 31, 36],
+		"uniqueName": "Triforce",
+		"uniques": ["Earn [60]% of killed [Wounded] unit's [Cost] as [Golden Age points]","[+1 Culture] from [Citadel] tiles [in all cities]"],
+		"cities": ["Castle Town", "Goron City", "Clock Town", "Kakariko Village", "Kokiri Village"],
+        "spyNames": ["Link", "Impa", "Rauru", "Saria", "Darunia", "Ruto"]
+    },
+	{
+		"name": "Land of Fire",
+		"leaderName": "Fire Daimyō",
+		"adjective": ["Land of Fire"],
+		"startBias": ["Forest"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [255, 41, 41],
+		"innerColor": [10, 4, 4],
+		"uniqueName": "Will of Fire",
+		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>","All newly-trained [Melee] units [in all cities] receive the [Fire Release] promotion"],
+		"cities": ["Konohagakure", "Fire Temple", "Hachō Village", "Tanzaku Quarters", "Tonika Village"],
+        "spyNames": ["Hashirama", "Tobirama", "Hiruzen", "Minato", "Tsunade", "Kakashi", "Naruto", "Konohamaru", "Sasuke", "Sakura"]
+    },
+	{
 		"name": "Ingen",
 		"leaderName": "John Hammond",
 		"adjective": ["Ingen"],
@@ -50,7 +158,7 @@
 		"innerColor": [10, 10, 10],
 		"uniqueName": "Order of Geuzen",
 		"uniques": ["[+1 Culture] from [Great Improvement] tiles [in all cities]","[+2 Production] per [3] population [in all cities]","[+2 Science] per [3] population [in all cities]"],
-		"cities": ["Amsterdam", "Rotterdam", "Utrecht", "Groningen", "Breda", "Nijmegen", "The Hague", "Haarlem", "Arnhem", "Zutphen", "Maastricht", "Tilburg", "Eindhoven", "Dordrecht", "Leiden", "'s Hertogenbosch", "Almere", "Alkmaar", "Brielle", "Vlissingen", "Apeldoorn", "Enschede", "Amersfoort", "Zwolle", "Venlo", "Uden", "Grave", "Delft", "Gouda", "Nieuwstadt", "Weesp", "Coevorden", "Kerkrade"],
+		"cities": ["Amsterdam", "Rotterdam", "Utrecht", "Groningen", "Breda", "Nijmegen", "The Hague", "Haarlem", "Arnhem", "Zutphen", "Maastricht", "Tilburg", "Eindhoven", "Dordrecht", "Leiden", "Almere", "Alkmaar", "Brielle", "Vlissingen", "Apeldoorn", "Enschede", "Amersfoort", "Zwolle", "Venlo", "Uden", "Grave", "Delft", "Gouda", "Nieuwstadt", "Weesp", "Coevorden", "Kerkrade"],
         "spyNames": ["John","Virma","Elsa","Ibrahim"]
     },
 	{

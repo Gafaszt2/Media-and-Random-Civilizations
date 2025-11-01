@@ -1,5 +1,25 @@
 [
 	{
+		"name": "Kryptonian Military Guild",
+		"uniqueTo": "Krypton",
+        "replaces": "Military Academy",
+		"hurryCostModifier": 0,
+		"maintenance": 1,
+		"requiredBuilding": "Armory",
+		"uniques": ["New [Military] units start with [15] XP [in this city]","[+15]% Production when constructing [Melee] units [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Military Science"
+	},
+	{
+		"name": "Gerudo's Fortress",
+		"uniqueTo": "The Gerudo",
+        "replaces": "Walls",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["[+1 Culture] from [Bronze] tiles [in this city]","[+1 Culture] from [Gold] tiles [in this city]","[+1 Culture] from [Oasis] tiles [in this city]","Destroyed when the city is captured"]
+	},
+	{
 		"name": "Vervalst",
 		"uniqueTo": "The Geuzen",
         "replaces": "Armory",
