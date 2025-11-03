@@ -1,4 +1,14 @@
 [ 
+	{
+		"name": "Yellow Brick Road",
+                "uniqueTo": "Land of Oz",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 7,
+		"techRequired": "The Wheel",
+		"uniques": ["[+1 Culture] for each adjacent [Plantation]","Gives a defensive bonus of [+10]%",
+            "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "F"
+	},
     {
 		"name": "Pagoda",
                 "uniqueTo": "Cloud Kingdom",

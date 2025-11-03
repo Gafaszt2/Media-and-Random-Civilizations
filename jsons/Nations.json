@@ -1,5 +1,113 @@
 [
 	{
+		"name": "The Koopa Troop",
+		"leaderName": "Bowser",
+		"adjective": ["The Koopa Troop"],
+		"startBias": ["None"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [23, 23, 23],
+		"innerColor": [255, 43, 43],
+		"uniqueName": "The Great Demon King Koopa",
+		"uniques": ["[-50]% unhappiness from the number of cities"],
+		"cities": ["Bowser's Castle", "Neo Bowser Castle", "Crystal Palace", "Hotel Delfino", "Tubba Blubba's Castle", "Koopa Bros. Fortress"],
+        "spyNames": ["Bowser Jr", "Ludwig von Koopa", "Kamek", "Kammy Koopa"]
+    },
+	{
+		"name": "Latveria",
+		"leaderName": "Doctor Doom",
+		"adjective": ["Latveria"],
+		"startBias": ["None"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [9, 13, 10],
+		"innerColor": [56, 255, 109],
+		"uniqueName": "Enforced Monarchy",
+		"uniques": ["[+1 Gold] from all [Science] buildings","[-75]% maintenance costs <for [Armored] units>"],
+		"cities": ["Doomstadt", "Doomsburg", "Doomsdale", "Doomsvale", "Doomton", "Doomwood", "Doomcity"],
+        "spyNames": ["Alexander Flynn", "Arturo Frazen", "Karl Hassen", "Boris"]
+    },
+	{
+		"name": "Land of Oz",
+		"leaderName": "Ozma",
+		"adjective": ["Land of Oz"],
+		"startBias": ["Avoid [Tundra]"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [219, 255, 166],
+		"innerColor": [49, 61, 32],
+		"uniqueName": "Great Book of Records",
+		"uniques": ["[+2 Happiness] per [3] population [in all cities]","[+2 Gold] from all [Palace] buildings","[+2 Gold] from all [Walls] buildings","[+2 Gold] from all [Castle] buildings"],
+		"cities": ["Emerald City", "Munchkin Village", "Cave City", "Sapphire City", "Shutter Town", "Up Town", "Loonville", "Blankenberg"],
+        "spyNames": ["Dorothy Gale", "Scarecrow", "Tin Woodman", "Cowardly Lion"]
+    },
+	{
+		"name": "The Covenant",
+		"leaderName": "Prophet of Truth",
+		"adjective": ["The Covenant"],
+		"startBias": ["None"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [59, 41, 102],
+		"uniqueName": "Writ of Union",
+		"uniques": ["[+15]% of excess happiness converted to [Faith]","Earn [25]% of the damage done to [Melee] units as [Faith]","May buy [Melee] units with [Faith] [in all cities]","[Faith] cost of purchasing [Melee] units [-35]%"],
+		"cities": ["High Charity", "Sunaion", "Ap'ot", "Janjur Qom", "Sanghelios", "Doisac", "Chu'ot", "Eayn", "T'vao", "Balaho", "Palamok", "Te", "Ansket IV", "Hesduros"],
+        "spyNames": ["Wattinree", "Tartarus", "Thel 'Vadam"]
+    },
+	{
 		"name": "Krypton",
 		"leaderName": "Jor-El",
 		"adjective": ["Krypton"],
@@ -1173,7 +1281,7 @@ From junction with the testes to tip of it's face",
 		"outerColor": [79, 87, 72],
 		"innerColor": [189, 247, 139],
 		"uniqueName": "Ogres are Like Onions",
-		"uniques": ["[+3 Culture] from every [Marsh]","[+1 Culture] from every [Jungle]","[+2 Culture] from every [Walls]"],
+		"uniques": ["[+2 Culture] from every [Marsh]","[+1 Gold, +1 Culture] from [Jungle] tiles [in all cities]"],
 		"cities": ["Shrek's Swamp", "Nice Boulder", "Fiona's Tower", "Dragon's Keep", "Shrek's Wall", "Worcestershire Academy", "Poison Apple", "Potion Factory", "Friar's Fat Boy", "Dead End Graveyard", "Merlin's House", "Sherwood Forest", "San Ricardo"],
         "spyNames": ["Donkey", "Puss in Boots", "Gingerbread Man", "Fiona", "Pinocchio", "Big Bad Wolf", "Three Blind Mice", "Three Little Pigs", "Three Good Fairies"]
     },
