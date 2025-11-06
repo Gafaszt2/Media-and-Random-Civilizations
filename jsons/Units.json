@@ -1,5 +1,17 @@
 [
 	{
+		"name": "Pokémon Trainer",
+		"replaces": "Great General",
+        "uniqueTo": "Kanto",
+		"unitType": "Trainer",
+		"strength": 20,
+		"uniques": [
+			"Can be earned through combat <for [Land] units>",
+            "Is part of Great Person group [General]",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
 		"name": "Bullet Bill",
 		"replaces": "Guided Missile",
         "uniqueTo": "The Koopa Troop",

@@ -1,5 +1,16 @@
 [
     {
+        "name": "Trainer",
+        "uniques": ["[+15]% Strength <during the [Classical era]>",
+    "[+35]% Strength <during the [Medieval era]>",
+    "[+65]% Strength <during the [Renaissance era]>",
+    "[+95]% Strength <during the [Industrial era]>",
+    "[+130]% Strength <during the [Modern era]>",
+    "[+180]% Strength <during the [Atomic era]>",
+    "[+230]% Strength <during the [Information era]>"],
+        "movementType": "Land"
+    },
+    {
         "name": "Living Meat",
         "uniques": [
     "[-20]% Strength <before turn number [50]>",

@@ -1,5 +1,32 @@
 [
 	{
+		"name": "Kanto",
+		"leaderName": "Professor Oak",
+		"adjective": ["Kanto"],
+		"startBias": ["None"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [184, 29, 81],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Catch 'Em All",
+		"uniques": ["[+20]% [Science] [in all cities]","[+50]% XP gained from combat"],
+		"cities": ["Pallet Town","Viridian City","Pewter City","Cerulean City","Vermilion City","Lavender Town","Celadon City","Fuchsia City","Saffron City","Cinnabar Island"],
+        "spyNames": ["Looker","Ash","Rocket Whisper","Sabrina's Shadow"]
+    },
+	{
 		"name": "The Koopa Troop",
 		"leaderName": "Bowser",
 		"adjective": ["The Koopa Troop"],

@@ -1,5 +1,246 @@
 [
 {
+		"name": "Dragonite",
+		"prerequisites": ["Wild Pokémon Capture III"],
+		"unitTypes": ["Trainer"],
+		"innerColor": [196, 80, 22],
+		"outerColor": [255, 255, 255],
+		"uniques": ["[+40]% Strength"]
+},
+{
+		"name": "Jynx",
+		"prerequisites": ["Wild Pokémon Capture III"],
+		"unitTypes": ["Trainer"],
+		"innerColor": [139, 40, 191],
+		"outerColor": [255, 255, 255],
+		"uniques": ["[+25]% Strength bonus for [Gunpowder] units within [2] tiles"]
+},
+{
+		"name": "Mewtwo",
+		"innerColor": [70, 36, 125],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Wild Pokémon Capture III"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+25]% Strength bonus for [Giant Death Robot] units within [2] tiles"]
+},
+{
+		"name": "Tauros",
+		"innerColor": [112, 73, 43],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Wild Pokémon Capture III"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+45]% Strength <when defending>"]
+},
+{
+		"name": "Zapdos",
+		"innerColor": [196, 145, 4],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Wild Pokémon Capture III"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+50]% Strength <vs [Gunpowder] units>"]
+},
+{
+		"name": "Gengar",
+		"innerColor": [88, 41, 148],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Wild Pokémon Capture III"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+55]% Strength <when fighting in [Snow] tiles>","[+55]% Strength <when fighting in [Desert] tiles>"]
+},
+{
+		"name": "Wild Pokémon Capture III",
+		"innerColor": [28, 5, 13],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Wild Pokémon Capture II"],
+		"unitTypes": ["Trainer"]
+},
+{
+		"name": "Lapras",
+		"innerColor": [59, 95, 168],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Wild Pokémon Capture II"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+70]% Strength <when [Embarked]>","Can enter ice tiles"]
+},
+{
+		"name": "Machamp",
+		"innerColor": [60, 66, 79],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Machoke"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+35] HP when healing"]
+},
+{
+		"name": "Machoke",
+		"innerColor": [60, 66, 79],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Machop"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+15] HP when healing"]
+},
+{
+		"name": "Machop",
+		"innerColor": [60, 66, 79],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Wild Pokémon Capture II"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+15] HP when healing"]
+},
+{
+		"name": "Alakazam",
+		"innerColor": [194, 109, 39],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Kadabra"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[1] additional attacks per turn"]
+},
+{
+		"name": "Kadabra",
+		"innerColor": [194, 109, 39],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Abra"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[1] additional attacks per turn"]
+},
+{
+		"name": "Abra",
+		"innerColor": [194, 109, 39],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Wild Pokémon Capture II"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[1] additional attacks per turn"]
+},
+{
+		"name": "Gyarados",
+		"innerColor": [59, 95, 168],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Magikarp"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+40]% Strength"]
+},
+{
+		"name": "Magikarp",
+		"innerColor": [194, 57, 39],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Wild Pokémon Capture II"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[-5]% Strength"]
+},
+{
+		"name": "Snorlax",
+		"innerColor": [67, 78, 125],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Wild Pokémon Capture II"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+15]% Strength <when defending>"]
+},
+{
+		"name": "Wild Pokémon Capture II",
+		"innerColor": [28, 5, 13],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Wild Pokémon Capture I"],
+		"unitTypes": ["Trainer"]
+},
+{
+		"name": "Pikachu",
+		"innerColor": [196, 145, 4],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Wild Pokémon Capture I"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+25]% Strength <when defending>"]
+},
+{
+		"name": "Ratata",
+		"innerColor": [106, 4, 196],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Wild Pokémon Capture I"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+5]% Strength bonus for [All] units within [3] tiles"]
+},
+{
+		"name": "Pidgey",
+		"innerColor": [161, 92, 32],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Wild Pokémon Capture I"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+1] Movement"]
+},
+{
+		"name": "Wild Pokémon Capture I",
+		"innerColor": [28, 5, 13],
+		"outerColor": [255, 255, 255],
+		"unitTypes": ["Trainer"]
+},
+{
+		"name": "Venusaur",
+		"innerColor": [86, 138, 44],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Ivysaur"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+55]% Strength <in [Forest] tiles>","[+55]% Strength <in [Jungle] tiles>"]
+},
+{
+		"name": "Ivysaur",
+		"innerColor": [86, 138, 44],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Bulbasaur"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+45]% Strength <when defending>"]
+},
+{
+		"name": "Bulbasaur",
+		"innerColor": [86, 138, 44],
+		"outerColor": [255, 255, 255],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+15]% Strength <in [Forest] tiles>","[+15]% Strength <in [Jungle] tiles>","Unavailable <for units with [Squirtle]>","Unavailable <for units with [Charmander]>"]
+},
+{
+		"name": "Blastoise",
+		"innerColor": [48, 66, 138],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Wartortle"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+45]% Strength <when fighting in [Coast] tiles>","[+45]% Strength <when fighting in [Lakes] tiles>"]
+},
+{
+		"name": "Wartortle",
+		"innerColor": [48, 66, 138],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Squirtle"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+35]% Strength <when fighting in [Coast] tiles>","[+35]% Strength <when fighting in [Lakes] tiles>"]
+},
+{
+		"name": "Squirtle",
+		"innerColor": [48, 66, 138],
+		"outerColor": [255, 255, 255],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+15]% Strength <when fighting in [Coast] tiles>","[+15]% Strength <when fighting in [Lakes] tiles>","May travel on Water tiles without embarking","Unavailable <for units with [Bulbasaur]>","Unavailable <for units with [Charmander]>"]
+},
+{
+		"name": "Charizard",
+		"innerColor": [222, 86, 18],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Charmeleon"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+55]% XP gained from combat","[+55]% Strength <vs [All] units>"]
+},
+{
+		"name": "Charmeleon",
+		"innerColor": [222, 86, 18],
+		"outerColor": [255, 255, 255],
+		"prerequisites": ["Charmander"],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+35]% XP gained from combat","[+15]% Strength <vs [All] units>"]
+},
+{
+		"name": "Charmander",
+		"innerColor": [222, 86, 18],
+		"outerColor": [255, 255, 255],
+		"unitTypes": ["Trainer"],
+		"uniques": ["[+25]% XP gained from combat","[+5]% Strength <vs [All] units>","Unavailable <for units with [Bulbasaur]>","Unavailable <for units with [Squirtle]>"]
+},
+{
 		"name": "Fire Release",
 		"uniques": ["[+10]% Strength"]
 },

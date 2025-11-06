@@ -1,5 +1,17 @@
 [
 	{
+		"name": "Pokémon Center",
+		"uniqueTo": "Kanto",
+        "replaces": "Hospital",
+		"food": 5,
+		"science": 2,
+		"culture": 1,
+		"requiredBuilding": "Aqueduct",
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"requiredTech": "Biology"
+	},
+	{
 		"name": "Shield Generator",
 		"uniqueTo": "The Covenant",
         "replaces": "Bomb Shelter",
