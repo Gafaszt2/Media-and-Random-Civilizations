@@ -1,5 +1,50 @@
 [
 	{
+    "name": "Ohio",
+    "leaderName": "Quandale Dingle",
+    "adjective": ["Ohioan"],
+    "startBias": ["Jungle","Forest"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "What's up guys, it's Quandale Dingle here!",
+    "startIntroPart2": "Lead your brainrot empire through the ages, outsmarting rivals with chaotic speed and absurd strength.",
+
+    "declaringWar": "Reheal my goofy ahh cousin! You are about to get sent to the shadow realm!",
+    "attacked": "What?! Who dares challenge the lord of Ohio?! You will regret this!",
+    "defeated": "My goofy ahh reign has come to an end... Goofy ahh game!",
+    "introduction": "What's up guys! It's Quandale Dingle here. Huhuhehehe!",
+
+    "neutralHello": "Hey! What's crackin'?",
+    "hateHello": "What do you want, goofy ahh?",
+
+    "tradeRequest": "Hey bro, check out this trade deal. Does it look good to you?",
+
+    "outerColor": [184, 29, 29],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "Only in Ohio",
+    "uniques": [
+        "[+1 Gold, +1 Science] from [Forest] tiles [in capital] <during a Golden Age>","[+1 Culture, +1 Production] from [Jungle] tiles [in capital] <during a Golden Age>"
+    ],
+    "cities": [
+        "Columbus",
+        "Cleveland",
+        "Cincinnati",
+        "Toledo",
+        "Akron",
+        "Dayton",
+        "Canton",
+        "Youngstown",
+        "Springfield",
+        "Lorain"
+    ],
+    "spyNames": [
+        "Goofy Ahh Uncle",
+        "Juandale Pringle",
+        "The Rizzler",
+        "Dinglenut"
+    ]
+},
+	{
 		"name": "Kanto",
 		"leaderName": "Professor Oak",
 		"adjective": ["Kanto"],
@@ -381,8 +426,9 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 0, 0],
 		"uniqueName": "The Living Meat, The Life of the Flesh",
-		"uniques": ["[-100]% maintenance cost for buildings [in all cities] <hidden from users>","Nullifies [Food] [in all cities] <hidden from users>","Nullifies [Production] [in all cities] <hidden from users>","[-100]% maintenance costs <hidden from users>","Nullifies [Culture] [in all cities] <hidden from users>","Nullifies [Science] [in all cities] <hidden from users>","Nullifies [Gold] [in all cities] <hidden from users>",
-			"Cannot build [Settler] units <hidden from users>","May not annex cities <hidden from users>"],
+		"uniques": ["[+1 Production, +1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Resource}] tiles>",
+		"[+2 Production, +2 Faith] [in all cities] <with [3] to [4] neighboring [{unimproved} {Resource}] tiles>",
+	    "[+3 Production, +3 Faith] [in all cities] <with [5] to [8] neighboring [{unimproved} {Resource}] tiles>"],
 		"cities": ["they dont have cities lol"]
     },
 	{
@@ -524,7 +570,7 @@
 		"name": "Avocadopolis",
 		"leaderName": "Fat Nikokado Avocado",
 		"adjective": ["Avocadopolis]"],
-		"startBias": ["Coast"],
+		"startBias": ["Grassland","Jungle"],
 		"preferredVictoryType":"Diplomatic",
 
 		"startIntroPart1": "",
@@ -543,7 +589,7 @@
 		"outerColor": [252, 219, 3],
 		"innerColor": [255, 25, 13],
 		"uniqueName": "Mukbang Fatness",
-		"uniques": ["[+30]% [Food] [in capital]","[+15]% [Happiness] [in all cities]","Enables conversion of city production to [Gold]"],
+		"uniques": ["[+1 Food] from every [Plantation]","[+1 Food] from every [Granary]","[+1 Gold] from every [Granary]","[+2 Food] from every [Hanging Gardens]"],
 		"cities": ["Mukbangville", "Guacamolita", "Pit Paradise", "Binge Bay", "Greensborough", "Avotropolis", "NutriCity", "Munchington", "Avocado Heights"],
         "spyNames": ["Mister Fart"]
     },
@@ -624,7 +670,7 @@
 		"outerColor": [57, 69, 45],
 		"innerColor": [252, 255, 227],
 		"uniqueName": "Arab Unity",
-		"uniques": ["[+2 Gold, +2 Culture] from [Oasis] tiles [in all cities]","No Maintenance costs for improvements in [Desert] tiles","Double quantity of [Oil] produced","[+25]% Great Person generation [in capital]"],
+		"uniques": ["[+2 Gold, +2 Culture] from [Oasis] tiles [in all cities]","No Maintenance costs for improvements in [Desert] tiles","[+100]% [Oil] resource production","[+25]% Great Person generation [in capital]"],
 		"cities": ["Cairo","Damascus","Alexandria","Beirut","Giza","Aleppo","Luxor","Homs","Aswan","Port Said","Hama","Marsa Matruh","Tanta"],
         "spyNames": ["Mister Arab"]
     },
@@ -850,7 +896,7 @@
 "innerColor": [63, 123, 201],
 "uniqueName": "Hail the Mouse",
 "uniques": [
-"[+25]% [Gold] [in capital] <upon declaring war with a major Civilization> <for [5] turns>",
+"[+25]% [Gold] [in capital] <upon declaring war on [Major] Civilizations> <for [5] turns>",
 "[+20]% Production when constructing [{Military} {Air}] units [in all cities]"
 ],
 "cities": [
@@ -1025,7 +1071,7 @@ From junction with the testes to tip of it's face",
 		"outerColor": [166, 182, 255],
 		"innerColor": [33, 37, 56],
 		"uniqueName": "Earth´s Fallout",
-		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities","[+33]% XP gained from combat","Population loss from nuclear attacks [-50]% [in all cities]"],
+		"uniques": ["Receive [+200]% Gold from Barbarian encampments and pillaging Cities","[+33]% XP gained from combat","Population loss from nuclear attacks [-50]% [in all cities]"],
 		"cities": ["Skibidi","Ruins of Calamidae","Scientist´s Place","G Man Temple","New Order of the Toilet"],
         "spyNames": ["Corrupted Cameraman"]
     },
@@ -1208,25 +1254,25 @@ From junction with the testes to tip of it's face",
 		"innerColor": [156, 156, 156],
 		"uniqueName": "Raider´s Culture",
 		"uniques": ["No damage penalty for wounded units","No movement cost to pillage","[+5]% Production when constructing [Production] buildings [in all cities]"],
-		"cities": ["Obsidian Pinnacle"
-"Desert Pyramid City"
-"Woodland Mansion"
-"Desert Well City"
-"Outcast City"
-"Abandoned City"
-"Jungle Temple City"
-"Jungle Ruin City"
-"Bastion City"
-"Ruined Portal City"
-"Underwater Ruin City"
-"Pillager Tower City"
-"Pillager Outpost City"
-"Village City"
-"Desert City"
-"Ravager Capital"
-"Mountain City"
-"Pillager Castle"
-"Iceberg City"
+		"cities": ["Obsidian Pinnacle",
+"Desert Pyramid City",
+"Woodland Mansion",
+"Desert Well City",
+"Outcast City",
+"Abandoned City",
+"Jungle Temple City",
+"Jungle Ruin City",
+"Bastion City",
+"Ruined Portal City",
+"Underwater Ruin City",
+"Pillager Tower City",
+"Pillager Outpost City",
+"Village City",
+"Desert City",
+"Ravager Capital",
+"Mountain City",
+"Pillager Castle",
+"Iceberg City",
 "Ravensberg"],
         "spyNames": ["Walda","Thors"]
     },

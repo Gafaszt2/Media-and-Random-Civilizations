@@ -1,5 +1,42 @@
 [
 	{
+		"name": "Trimming",
+		"replaces": "Worker",
+        "uniqueTo": "The Cult",
+		"unitType": "Civilian",
+		"movement": 4,
+		"requiredTech": "Agriculture",
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 90
+	},
+	{
+		"name": "Crawl",
+		"replaces": "Settler",
+        "uniqueTo": "The Cult",
+		"unitType": "Civilian",
+		"movement": 1,
+		"cost": 80,
+		"requiredTech": "Agriculture",
+		"uniques": ["[-1] Sight","Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Rizzler",
+		"replaces": "Great Artist",
+        "uniqueTo": "Ohio",
+		"unitType": "Civilian",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+			"Can instantly construct a [Mine] improvement <by consuming this unit>",
+			"Can instantly construct a [Quarry] improvement <by consuming this unit>",
+			"Can instantly construct a [Plantation] improvement <by consuming this unit>",
+            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
 		"name": "Pokémon Trainer",
 		"replaces": "Great General",
         "uniqueTo": "Kanto",
@@ -253,90 +290,6 @@
             "Can instantly construct a [Landmark] improvement <by consuming this unit>",
             "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
 		"movement": 3
-	},
-	{
-		"name": "Meat Shark",
-		"uniqueTo": "The Cult",
-		"unitType": "Water Living Meat",
-		"movement": 2,
-		"strength": 15,
-		"cost": 106,
-		"promotions":["Ignore terrain cost"],
-		"hurryCostModifier": 20
-	},
-	{
-		"name": "Monolith",
-		"uniqueTo": "The Cult",
-		"unitType": "Living Meat",
-		"movement": 2,
-		"strength": 25,
-		"cost": 106,
-		"promotions":["Ignore terrain cost"],
-		"hurryCostModifier": 20
-	},
-	{
-		"name": "Harvester",
-		"uniqueTo": "The Cult",
-		"unitType": "Living Meat",
-		"movement": 1,
-		"strength": 20,
-		"cost": 106,
-		"promotions":["Ignore terrain cost"],
-		"hurryCostModifier": 20
-	},
-	{
-		"name": "Mimic",
-		"uniqueTo": "The Cult",
-		"unitType": "Living Meat",
-		"movement": 2,
-		"strength": 15,
-		"cost": 106,
-		"promotions":["Ignore terrain cost"],
-		"hurryCostModifier": 20
-	},
-	{
-		"name": "Meat Snake",
-		"uniqueTo": "The Cult",
-		"unitType": "Living Meat",
-		"movement": 2,
-		"strength": 10,
-		"cost": 106,
-		"promotions":["Ignore terrain cost"],
-		"hurryCostModifier": 20
-	},
-	{
-		"name": "Trimming",
-		"uniqueTo": "The Cult",
-		"unitType": "Living Meat",
-		"movement": 2,
-		"strength": 5,
-		"cost": 106,
-		"uniques": ["[-20]% Strength <vs cities> <when attacking>"],
-		"promotions":["Ignore terrain cost"],
-		"hurryCostModifier": 20
-	},
-	{
-		"name": "Crawl",
-		"uniqueTo": "The Cult",
-		"replaces": "Settler",
-		"unitType": "Living Meat",
-		"movement": 1,
-		"strength": 2,
-		"cost": 106,
-		"uniques": ["May enter foreign tiles without open borders","Uncapturable","Consumes [-4] [Living Meat] <in [All] tiles> <hidden from users>",
-		            "[+2000]% Strength <vs [Barbarian] units> <hidden from users>",
-					////// Basic Stuff
-		            "[1] free [Crawl] units appear <for [3] movement> <costs [35] [Living Meat]>",
-					////// Land Units
-					"[1] free [Trimming] units appear <for [3] movement> <costs [10] [Living Meat]>",
-					"[1] free [Meat Snake] units appear <for [3] movement> <costs [25] [Living Meat]>",
-					"[1] free [Mimic] units appear <for [3] movement> <costs [48] [Living Meat]>",
-					"[1] free [Harvester] units appear <for [3] movement> <costs [70] [Living Meat]>",
-					"[1] free [Monolith] units appear <for [3] movement> <costs [160] [Living Meat]>",
-					//// Marine Units
-				    "[1] free [Meat Shark] units appear <for [3] movement> <costs [70] [Living Meat]>"],
-		"promotions":["Ignore terrain cost"],
-		"hurryCostModifier": 20
 	},
 	{
 		"name": "Juanito Bonito",

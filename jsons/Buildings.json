@@ -1,5 +1,18 @@
 [
 	{
+		"name": "Warehouse",
+		"uniqueTo": "Ohio",
+        "replaces": "Granary",
+		"food": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+2]% Production when constructing [All] buildings [in this city]",
+			"[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
 		"name": "Pokémon Center",
 		"uniqueTo": "Kanto",
         "replaces": "Hospital",
@@ -41,7 +54,7 @@
 		"cityHealth": 50,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["[+1 Culture] from [Bronze] tiles [in this city]","[+1 Culture] from [Gold] tiles [in this city]","[+1 Culture] from [Oasis] tiles [in this city]","Destroyed when the city is captured"]
+		"uniques": ["[+1 Culture] from [Mine] tiles [in this city]","[+1 Culture] from [Oasis] tiles [in this city]","Destroyed when the city is captured"]
 	},
 	{
 		"name": "Vervalst",
