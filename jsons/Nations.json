@@ -429,7 +429,7 @@
 		"uniques": ["[+1 Production, +1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Resource}] tiles>",
 		"[+2 Production, +2 Faith] [in all cities] <with [3] to [4] neighboring [{unimproved} {Resource}] tiles>",
 	    "[+3 Production, +3 Faith] [in all cities] <with [5] to [8] neighboring [{unimproved} {Resource}] tiles>"],
-		"cities": ["they dont have cities lol"]
+		"cities": ["Tharax","Feronax","Reba","Alsaid","Rebea","Xultei"]
     },
 	{
 		"name": "Gringos",
